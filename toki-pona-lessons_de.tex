@@ -1,0 +1,117 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% Toki Pona - lessons (German)
+%%
+%%
+%% apt-get install texlive-latex-base texlive-latex-extra texlive-luatex texlive-latex-extra texlive-pstricks rubber latex2html texlive-lang-german latex-xcolor
+%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[a4paper, 10pt]{book} 
+\usepackage{ulem}
+\usepackage{ngerman}
+\usepackage{supertabular}
+\usepackage[latin1]{inputenc}
+% Indexverzeichnis erstellen:
+\usepackage{makeidx}
+\makeindex 
+\usepackage{graphicx}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% html is for the html tags 
+\usepackage{html}
+% hyperref is for the hyperlinks in PDF 
+% and have to be the last packet
+\usepackage{hyperref}
+\usepackage{xcolor}
+\hypersetup{%
+	pdfauthor={Sonja Lang, B. J. Knight, Robert Warnke},
+	pdftitle={Toki Pona -- Die einfachste Sprache der Welt},
+	pdfsubject={Toki Pona -- Die einfachste Sprache der Welt},
+	pdfkeywords={Toki Pona, Sprache, Sprachtheorie,Universalgrammatik, Phoneme, Lautmuster, Phonology, Linguistik, kognitiv, Solopsismus, sprachliches Relativitätsprinzip, Sapir-Whorf-Hypothese, Prosodie, Semantik, Syntax, Satzbau, Satzmelodie,  Spracherkennungssystem,Wortkategorien, Eliza, Turing-Test, Sprachschatz, Verstanddatei, Wissensbasis, KI, Knowledgebase, AIML,Atifical Intelligence Markup Language, Alice, Artifical Linguistic Computer Entity},
+	colorlinks=true,
+	urlcolor=blue,
+	urlbordercolor=blue
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeindex
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setlength{\topmargin}{-19mm}
+\setlength{\headheight}{5mm}
+\setlength{\headsep}{10mm}
+\setlength{\textheight}{245mm}
+\setlength{\textwidth}{155mm}
+\setlength{\oddsidemargin}{5mm}
+\setlength{\evensidemargin}{-1mm}
+\setlength{\footskip}{20mm}
+\setlength{\parindent}{0mm}
+\setlength{\parskip}{2.0ex plus 1.0ex minus 0.5ex}
+\batchmode
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\title{
+Toki Pona \\ \\ 
+Die einfachste Sprache der Welt \\
+}
+\author{
+Author der Lektionen: \\ B. J. Knight (jan Pije), USA \cite{www:Pije:01} \\  
+\and
+Übersetzung, Ergänzung und Layout mit \LaTeX \\ Robert Warnke (jan Lope), Germany \cite{www:rowa:01} \\ 
+\and
+ \\ Diese Lektionen basieren auf den Lektionen von B. J. Knight (jan Pije) und \\  dem offiziellen Toki Pona Buch von Sonja Lang \cite{www:tokipona.org} \\
+}
+
+%
+\date
+%\thanks{}
+\today
+\maketitle
+\tableofcontents
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\chapter{Lektionen}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\include{introduction}
+\include{pronunciation_alphabet}
+\include{basic_sentences}
+\include{direct_objects_compund_sentences}
+\include{adjectives_compound_nouns_adverbs}
+\include{prepositions01}
+\include{other_prepositions}
+\include{negation_yes_no_questions}
+\include{gender_unofficial_words_etc}
+\include{questions_using_seme}
+\include{pi}
+\include{conjunctions_temperature}
+\include{colors}
+\include{living_things}
+\include{the_body}
+\include{numbers}
+\include{la}
+\include{conclusion}
+\include{answers}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix
+\chapter{Anhang}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%%%\include{leavings}
+%
+\include{proverbs}
+\include{texts}
+\include{tokiponization-guide}
+\include{unofficial_words}
+\include{thematic_dict}
+\include{dict}
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliography{toki-pona-lessons}
+\bibliographystyle{plain}
+\printindex
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% eof
