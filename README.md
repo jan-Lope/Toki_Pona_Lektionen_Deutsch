@@ -8,7 +8,7 @@ Die Generierung der PDF- und HTML-Dateien können unter Ubuntu erfolgen. Dazu si
 
 Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:
 
-  ./makte_booklet.sh
+  ./make_booklet.sh
 
 Es erzeugt die PDF- und HTML-Dateien für Das Booklet und die Website. Weiterhin generiert es die Wort-Liste für ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ).
 
