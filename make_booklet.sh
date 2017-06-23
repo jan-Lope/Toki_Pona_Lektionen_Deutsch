@@ -73,6 +73,7 @@ if [ ! -f toki-pona-dictionary.pdf ]; then
 	echo "ERROR"
 	exit 1
 fi
+
 echo "make html files"
 latex2html $TEX_FILE.tex > /dev/null 2> /dev/null
 if [ ! -f $TEX_FILE/index.html ]; then
