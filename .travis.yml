@@ -13,7 +13,6 @@ deploy:
   file:
   - _build/toki-pona-lessons_de.pdf
   - _build/toki-pona-lessons_de-booklet.pdf
-  - _build/toki-pona-dictionary.pdf
   - _build/toki-pona_deutsch.txt
   - _build/toki-pona-lessons_en
 
