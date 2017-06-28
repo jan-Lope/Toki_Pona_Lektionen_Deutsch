@@ -8,7 +8,8 @@ Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache toki pona ist 
 Generiertes Buch (A4)  
 
 [toki-pona-lessons_de-booklet.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona-lessons_de-booklet.pdf)  
-Generieretes Booklet (A5). Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
+Generieretes Booklet (A5). 
+Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
 [toki-pona_deutsch.txt](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona_deutsch.txt)  
 Generiertes Wörterbuch  
@@ -17,7 +18,7 @@ Dieses Wörterbuch kann mit der Software [ding](http://www-user.tu-chemnitz.de/~
 
 ### Source Codes
 
-Die PDF- und HTML- und TXT-Dateien werden automatisch aus den Latex-Datei per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
+Die PDF- und HTML- und TXT-Dateien werden automatisch aus den Latex-Dateien per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
 
 Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch) veröffentlicht.  
 
