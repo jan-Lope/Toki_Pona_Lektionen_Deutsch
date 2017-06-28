@@ -15,6 +15,9 @@ Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet,
 Generiertes Wörterbuch  
 Dieses Wörterbuch kann mit der Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/) verwendet werden.
 
+[HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html)  
+
+
 
 ### Source Codes
 
