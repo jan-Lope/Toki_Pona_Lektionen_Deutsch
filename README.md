@@ -2,7 +2,7 @@
 Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache toki pona ist der Minimalismus. toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden. 
 
 
-## Generierte PDF- und HTML-Dateien
+## Generierte PDF- HTML- und TXT-Dateien
 
 [toki-pona-lessons_de.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona-lessons_de.pdf)  
 Generiertes Buch (A4)  
@@ -18,7 +18,7 @@ Dieses Wörterbuch kann mit der Software [ding](http://www-user.tu-chemnitz.de/~
 
 ### Source Codes
 
-Die PDF- und HTML- und TXT-Dateien werden automatisch aus den Latex-Dateien per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
+Die PDF-, HTML- und TXT-Dateien werden automatisch aus den Latex-Dateien per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
 
 Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch) veröffentlicht.  
 
