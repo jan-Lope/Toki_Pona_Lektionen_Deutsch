@@ -1,6 +1,8 @@
 # Toki Pona - Lektionen auf Deutsch
 Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache toki pona ist der Minimalismus. toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden. 
 
+Diese Lektionen basieren auf dem offiziellen Toki Pona Buch von Sonja Lang ( [tokipona.org](http://tokipona.org) ) und 
+den Lektionen von jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/janpije/) ).  
 
 ## Generierte PDF- HTML- und TXT-Dateien
 
