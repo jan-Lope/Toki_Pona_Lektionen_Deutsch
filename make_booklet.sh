@@ -8,6 +8,7 @@
 #
 TEX_FILE="toki-pona-lessons_de"
 TODAY=`date +"%Y-%m-%d"`
+# export LANG=C.UTF-8
 echo " "
 echo "########################################################################"
 echo "start $0"
@@ -95,7 +96,6 @@ for i in `ls $TEX_FILE/*.html` ; do
           sed -e '1,$s/ VALIGN=\"TOP\" WIDTH=5/ VALIGN=\"TOP\" WIDTH=\"300\"/g' $i > $i.neu && mv $i.neu $i
 done
 echo "make word list for ding dictionary ( http://www-user.tu-chemnitz.de/~fri/ding/ )"
-
 fgrep "&&" *.tex | fgrep "\\" | fgrep -v "%" | fgrep -v "% no-dictionary" | fgrep -v "% & English - Toki Pona" | cut -d: -f2- | awk -F\& '{
 print $1 "::" $3 $4 $5 $6 $7 }'  > tmp.txt
 fgrep "&&" *.tex | fgrep "\\" | fgrep "% & English - Toki Pona" | cut -d: -f2- | awk -F\& '{print $3 ":: " $1 }'  >> tmp.txt
@@ -113,9 +113,16 @@ sed -e 's#'\textsc{'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#'\dots'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#'\glqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#'\grqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
-echo "## $TODAY http://rowa.giso.de/languages/toki-pona/" > toki-pona_deutsch.txt
-cat tmp.txt | sort >> toki-pona_deutsch.txt
-if [ ! -f toki-pona_deutsch.txt ]; then
+sed -e 's#\\#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
+sed -e 's#^ #''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
+echo "## $TODAY https://github.com/jan-Lope/" > toki-pona_deutsch.txt
+cat tmp.txt | sort | uniq >> toki-pona_deutsch.txt
+DICT_LINES=`cat toki-pona_deutsch.txt | wc -l`
+if [ $? != 0  ]; then
+	echo "ERROR"
+	exit 1
+fi
+if [ $DICT_LINES -lt 1700 ]; then
 	echo "ERROR"
 	exit 1
 fi
