@@ -116,6 +116,7 @@ sed -e 's#'\grqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#\\#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#^ #''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 echo "## $TODAY https://github.com/jan-Lope/" > toki-pona_deutsch.txt
+echo "## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). " >> toki-pona_deutsch.txt
 cat tmp.txt | sort | uniq >> toki-pona_deutsch.txt
 DICT_LINES=`cat toki-pona_deutsch.txt | wc -l`
 if [ $? != 0  ]; then
