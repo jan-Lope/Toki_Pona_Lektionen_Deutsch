@@ -1,7 +1,5 @@
-## 2017-07-13 https://github.com/jan-Lope/
-! :: Separator: Die Befehlsform und Interjektionen enden mit einem Ausrufungszeichen.   Verwende ein Ausrufungszeichen nicht zusammmen mit einem der anderen Sepratoren.  
-. :: Separator: Beendet wird ein Aussagesatz mit einem Punkt.   Verwende einen Punkt nicht zusammmen mit einem der anderen Sepratoren.  
-? :: Separator: Beendet wird eine Frage mit einem Fragezeichen.   Verwende ein Fragezeichen nicht zusammmen mit einem der anderen Sepratoren.  
+## 2017-07-18 Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/
+## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). 
 a :: aah, ha, mmh, oooh 
 ala :: nicht, nichts, kein, Negation, Null, nein 
 ala :: null, nichts 
@@ -16,16 +14,16 @@ jan Eliku Kulaputon :: Eric Clapton
 jan Elu :: Elfe 
 jan Jon Kalapin :: John Calvin 
 jan Kitopokolonpo :: Christopher Columbus 
-jan Mawi li pana e seli tawa ma. :: Wie Maui das Feuer in die Welt brachte. 
-jan San li seme? :: Who is John? 
-jan Santa :: Santa Claus 
-jan Sipi Wanta  :: Stevie Wonder  
-jan Toni Kena :: Tony Chestnut 
 jan laso lili :: Little Boy Blue 
 jan lawa lete  :: Väterchen Frost  
 jan li moli :: murder 
 jan li pona.   :: Menschen sind gut. 
+jan Mawi li pana e seli tawa ma. :: Wie Maui das Feuer in die Welt brachte. 
 jan moli :: dead man 
+jan San li seme? :: Who is John? 
+jan Santa :: Santa Claus 
+jan Sipi Wanta  :: Stevie Wonder  
+jan Toni Kena :: Tony Chestnut 
 kala kule mute :: Der Regenbogenfisch 
 kasi kule loje lili  :: The Little Pink Rose 
 kasi pi tenpo pona Kolisu :: Chrismas tree 
@@ -34,8 +32,8 @@ ko :: halbfeste Substanz, Kleber, Mehl, Pulver, Brei, Paste, zerkwetschen
 kon telo walo :: snow, fog 
 la :: Trennwort: Trennt Adverben des Kontext vom Satz 
 lete lili li lon kin. :: Here is it little cold too. 
-lon  :: truth 
 lon :: in, im, an, auf, am, existieren, leben 
+lon  :: truth 
 ma Amelika :: Amerika 
 ma Amelika lete :: Nord-Amerika 
 ma lon telo :: Island 
@@ -50,23 +48,26 @@ mun :: Mond, Mond-
 nanpa pi ilo toki :: phone number 
 nanpa pi ma tomo :: zip code 
 nasin tawa pi jan Nuton ::  die Newtonsches Gesetze 
-nimi "lon" li pona ala tawa mi. :: "lon" is not easy for me. 
 nimi kepeken @ :: email  ??
+nimi "lon" li pona ala tawa mi. :: "lon" is not easy for me. 
 o jo e sijelo pona :: to your health 
 olin :: lieben (eine Person), Liebe, Liebes- 
 ona ::  er, sie, es, seins, seine, ihrs, sie (Plural), deren  
 pali li ike tawa mi. :: I'm lazy. 
 pali pona :: Order 
-pi :: Trennwort zwischen zwei Substantiv/Adjektiv-Kombinationen 
 pini pi sike sune :: sylvester 
+pi :: Trennwort zwischen zwei Substantiv/Adjektiv-Kombinationen 
 seme :: was, wessen, welcher, warum, wer, wie, Fragewort 
+. :: Separator: Beendet wird ein Aussagesatz mit einem Punkt.   Verwende einen Punkt nicht zusammmen mit einem der anderen Sepratoren.  
+? :: Separator: Beendet wird eine Frage mit einem Fragezeichen.   Verwende ein Fragezeichen nicht zusammmen mit einem der anderen Sepratoren.  
+! :: Separator: Die Befehlsform und Interjektionen enden mit einem Ausrufungszeichen.   Verwende ein Ausrufungszeichen nicht zusammmen mit einem der anderen Sepratoren.  
 sike suno wan :: one year 
 sike tu :: Fahrrad  
-sin :: neu, ein weiteres, ein anderes, mehr, frisch, erneuern, renovieren 
 sina ::  du, dein, deins, ihr, euch, eurer  
 sina pona pilin la ... :: Wenn du glücklich bist ... 
 sina suno mi. :: You are My Sunshine. 
 sina toki tawa mi anu seme? :: You ask _me_? 
+sin :: neu, ein weiteres, ein anderes, mehr, frisch, erneuern, renovieren 
 sitelen pi ilo nanpa :: computer screen 
 soweli lili pi ilo nanpa :: computer mouse 
 soweli pi poki sinpin :: Kaenguru  
@@ -76,8 +77,8 @@ tenpo lili :: bald
 tenpo pona Kolisu :: Chrismas 
 tenpo suno kama la mi pali e lipu sin. :: I'll update my web page next day. 
 tenpo suno mute li pini la mi tawa tomo. :: A lot of days ago I went home.  ?
-tenpo suno pi pali ala :: (public) holiday 
 tenpo suno pini la wan pi ilo HTML li pona lili. tenpo suno pini la wan pi ilo HTML li pona mute. :: The HTML part is better now. 
+tenpo suno pi pali ala :: (public) holiday 
 toki tan toki pi jan Pokakijo :: Das Dekameron von Giovanni Boccaccio. 
 toki utala pi pimeja soweli :: des Esels Schatten 
 tomo pi ijo kama jo :: shop  ??
