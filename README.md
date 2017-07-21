@@ -13,11 +13,17 @@ Generiertes Buch (A4)
 Generieretes Booklet (A5). 
 Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
+[HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html)  
+
 [toki-pona_deutsch.txt](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona_deutsch.txt)  
 Generiertes Wörterbuch  
 Dieses Wörterbuch kann mit der Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/) verwendet werden.
 
-[HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html)  
+![ding](ding01.png?raw=true "ding")
+
+![ding](ding02.png?raw=true "ding")
+
+![ding](ding03.png?raw=true "ding")
 
 
 
