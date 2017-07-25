@@ -63,18 +63,6 @@ if [ ! -f $TEX_FILE-booklet.pdf ]; then
 	echo "ERROR"
 	exit 1
 fi
-echo "make toki-pona-dictionary"
-latex toki-pona-dictionary.tex > /dev/null  2> /dev/null
-if [ ! -f toki-pona-dictionary.dvi ]; then
-	echo "ERROR"
-	exit 1
-fi
-pdflatex toki-pona-dictionary.tex > /dev/null 2> /dev/null
-if [ ! -f toki-pona-dictionary.pdf ]; then
-	echo "ERROR"
-	exit 1
-fi
-
 echo "make html files"
 latex2html $TEX_FILE.tex > /dev/null 2> /dev/null
 if [ ! -f $TEX_FILE/index.html ]; then
@@ -95,6 +83,7 @@ for i in `ls $TEX_FILE/*.html` ; do
           sed -e '1,$s/ BORDER=\"1\"/ BORDER=\"0\"/g' $i > $i.neu && mv $i.neu $i
           sed -e '1,$s/ VALIGN=\"TOP\" WIDTH=5/ VALIGN=\"TOP\" WIDTH=\"300\"/g' $i > $i.neu && mv $i.neu $i
 done
+#
 echo "Create Build directory and copy the pdf and html files in this directory."
 rm -rf _build
 mkdir -p _build
@@ -104,10 +93,6 @@ if [ ! -f _build/$TEX_FILE.pdf ]; then
 	exit 1
 fi
 if [ ! -f _build/$TEX_FILE-booklet.pdf ]; then
-	echo "ERROR"
-	exit 1
-fi
-if [ ! -f _build/toki-pona-dictionary.pdf ]; then
 	echo "ERROR"
 	exit 1
 fi
@@ -149,8 +134,7 @@ rm -f *.ind
 rm -f *.ist
 #
 echo "make word list for ding dictionary ( http://www-user.tu-chemnitz.de/~fri/ding/ )"
-fgrep "&&" *.tex | fgrep "\\" | fgrep -v "%" | fgrep -v "% no-dictionary" | fgrep -v "% & English - Toki Pona" | cut -d: -f2- | awk -F\& '{
-print $1 "::" $3 $4 $5 $6 $7 }'  > tmp.txt
+fgrep "&&" *.tex | fgrep "\\" | fgrep -v "%" | fgrep -v "% no-dictionary" | fgrep -v "% & English - Toki Pona" | cut -d: -f2- | awk -F\& '{print $1 "::" $3 $4 $5 $6 $7 }'  > tmp.txt
 fgrep "&&" *.tex | fgrep "\\" | fgrep "% & English - Toki Pona" | cut -d: -f2- | awk -F\& '{print $3 ":: " $1 }'  >> tmp.txt
 if [ ! -f tmp.txt ]; then
 	echo "ERROR"
@@ -168,6 +152,9 @@ sed -e 's#'\glqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#'\grqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#\\#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#^ #''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
+expand tmp.txt > tmp.neu && mv tmp.neu tmp.txt                          # replace tabs with spaces
+sed -e 's/  */ /g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt              # strip multiple spaces to one
+sed -e 's/[ \t]*$//' "$1" tmp.txt > tmp.neu && mv tmp.neu tmp.txt       # strip trailing whitespace
 echo "## $TODAY Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/" >  toki-pona_deutsch.txt
 echo "## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). " >> toki-pona_deutsch.txt
 cat tmp.txt | sort | uniq >> toki-pona_deutsch.txt
@@ -186,7 +173,6 @@ if [ $? != 0  ]; then
 	echo "ERROR"
 	exit 1
 fi
-
 mv toki-pona_deutsch.txt _build
 fgrep "mi moku" _build/toki-pona_deutsch.txt > /dev/null 2> /dev/null
 if [ $? != 0  ]; then
@@ -194,19 +180,33 @@ if [ $? != 0  ]; then
 	exit 1
 fi
 #
+echo "make dictionary.coffee"
+cat dictionary-head.coffee > _build/dictionary.coffee
+# expand _build/toki-pona_english.txt | fgrep -v "##" | sed -e 's#'\''#''#g' | sed -e 's/  */ /g'  >> _build/dictionary.coffee
+expand _build/toki-pona_deutsch.txt | fgrep -v "##" | sed -e 's/  */ /g'  >> _build/dictionary.coffee
+cat dictionary-tail.coffee >>  _build/dictionary.coffee
+#
+echo "make dictionary.js"
+# coffeelint _build/dictionary.coffee
+coffee -c _build/dictionary.coffee
+if [ $? != 0  ]; then
+	echo "ERROR"
+	exit 1
+fi
+# coffee -v
+rm -f _build/dictionary.coffee
+cp dictionary.html _build/
+#
 echo " "
-echo "The pdf, html and txt files are in the directory _build."
+echo "The generated files are in the directory _build."
 ls _build
 echo " "
 echo "Printing of the booklet: "
 echo "Print the odd numbers first."
 echo "Put the paper with the script on the top again in the printer."
-echo " "
-echo "end $0"
+# echo " "
+# echo "end $0"
 echo "########################################################################"
-echo " "
-
-#
-###############################################################################
+# echo " "
 ###############################################################################
 # eof

@@ -1,13 +1,15 @@
 # Configuration file for https://travis-ci.org
 # (c) Robert Warnke
 # Checked with http://lint.travis-ci.org
+dist: trusty
 language: ruby
 sudo: required
-dist: trusty
 before_install:
-- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils
+- sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends dvipng latex2html latex-xcolor texlive texlive-base texlive-binaries texlive-extra-utils texlive-fonts-extra texlive-fonts-recommended texlive-font-utils texlive-lang-german texlive-latex-base texlive-latex-extra texlive-latex-recommended texlive-pictures texlive-pstricks texlive texlive-base psutils npm nodejs
+- sudo npm install --global coffeescript
+- sudo npm install --global coffeelint 
 script:
-- "./make_booklet.sh"
+- "./make.sh"
 deploy:
   provider: pages
   skip_cleanup: true
