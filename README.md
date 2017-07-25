@@ -17,7 +17,7 @@ Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet,
 
 ### Dictionary
 
-
+[Toki Pona - Deutsch Wörterbuch](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/dictionary.html) Generierte Online-Version.
 
 [toki-pona_deutsch.txt](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona_deutsch.txt) Generiertes Text-Datei für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
 
