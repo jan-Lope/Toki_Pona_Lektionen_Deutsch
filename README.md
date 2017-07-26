@@ -40,7 +40,7 @@ Das manuelle Generieren der PDF- und HTML- und TXT-Dateien kann unter Ubuntu erf
 
 
     sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
-    sudo apt-get install latex2html latex-xcolor
+    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript
 
 
 Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linux (Ubuntu) starte folgendes Script:

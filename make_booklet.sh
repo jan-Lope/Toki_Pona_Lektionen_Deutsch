@@ -168,9 +168,11 @@ sed -e 's#'\glqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#'\grqq'#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#\\#''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
 sed -e 's#^ #''#g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt
+expand tmp.txt > tmp.neu && mv tmp.neu tmp.txt                          # replace tabs with spaces
+sed -e 's/  */ /g' tmp.txt > tmp.neu && mv tmp.neu tmp.txt              # strip multiple spaces to one
 echo "## $TODAY Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/" >  toki-pona_deutsch.txt
 echo "## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). " >> toki-pona_deutsch.txt
-cat tmp.txt | sort | uniq >> toki-pona_deutsch.txt
+cat tmp.txt | sort | uniq | grep -v "^::" >> toki-pona_deutsch.txt
 rm -f tmp.txt
 DICT_LINES=`cat toki-pona_deutsch.txt | wc -l`
 if [ $? != 0  ]; then
