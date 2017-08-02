@@ -9,11 +9,14 @@ den Lektionen von jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/ja
 ### Lektionen 
 
 [toki-pona-lessons_de.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona-lessons_de.pdf) Generiertes Buch (A4)  
+Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
 
 [toki-pona-lessons_de-booklet.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/blob/gh-pages/toki-pona-lessons_de-booklet.pdf) Generieretes Booklet (A5). 
+Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
 [HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Generierte Online-Version.
+Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 
 ### Dictionary
 
