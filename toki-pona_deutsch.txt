@@ -1,4 +1,4 @@
-## 2017-08-30 Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/
+## 2018-01-12 Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/
 ## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). 
 jan Eliku Kulaputon :: Eric Clapton 
 jan Elu :: Elfe 
@@ -6,25 +6,21 @@ jan Jon Kalapin :: John Calvin
 jan Kitopokolonpo :: Christopher Columbus 
 jan laso lili :: Little Boy Blue 
 jan lawa lete :: Väterchen Frost 
-jan li ' pona. :: Menschen sind gut. 
 jan Mawi li pana e seli tawa ma. :: Wie Maui das Feuer in die Welt brachte. 
 jan Sipi Wanta :: Stevie Wonder 
 jan Toni Kena :: Tony Chestnut 
 kala kule mute :: Der Regenbogenfisch 
 kasi kule loje lili :: The Little Pink Rose 
-ma Amelika :: Amerika 
-ma Amelika lete :: Nord-Amerika 
+ma suli Amelika :: Amerika 
+ma suli Amelika lete :: Nord-Amerika 
 meli pi pana moku :: Kellnerin 
-mi moku. :: Ich esse. 
 mi seme e jan telo nasa? :: What Shall We Do With The Drunken Sailor? 
 nasin tawa pi jan Nuton :: die Newtonsches Gesetze 
 olin :: Adjektiv: Liebes- 
 olin (e ) :: Verb, transitiv: (eine Person) lieben 
 olin :: Substantiv: Liebe 
-seme :: question word: wer, wie, was, welche, warum, wessen (Fragewort) 
-. :: Separator: Beendet wird ein Aussagesatz mit einem Punkt. Verwende einen Punkt nicht zusammmen mit einem der anderen Separatoren. 
-? :: Separator: Beendet wird eine Frage mit einem Fragezeichen. Verwende ein Fragezeichen nicht zusammmen mit einem der anderen Separatoren. 
-! :: Separator: Die Befehlsform und Interjektionen enden mit einem Ausrufungszeichen. Verwende ein Ausrufungszeichen nicht zusammmen mit einem der anderen Separatoren. 
+seme :: Fragepronomen: wer, wie, was, welche, warum, wessen (Fragewort) 
+. :: Separator: Beendet wird ein Aussagesatz ((Deklarativsatz)) mit einem Punkt. Verwende einen Punkt nicht zusammmen mit einem der anderen Separatoren. 
 sike tu :: Fahrrad 
 sin :: Adjektiv: neu, frisch, noch einer, ein anderes, mehr 
  sin :: Adverb: erneuernd 
