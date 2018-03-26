@@ -8,24 +8,29 @@ den Lektionen von jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/ja
 
 ### Lektionen 
 
-[toki-pona-lessons_de.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.pdf) Generiertes Buch (A4)  
+Diese Lektionen können in unterschiedlichen Formaten herunter geladen werden. 
 Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
 
-[toki-pona-lessons_de-booklet.pdf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet.pdf) Generieretes Booklet (A5). 
-Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
+[pdf (A4)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.pdf) 
+
+[pdf (booklet A5)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet.pdf) 
 Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
+
+[epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.epub)
+
+[mobi](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.mobi)
+
+[azw3](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.azw3)
 
 [HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Generierte Online-Version.
 Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 
-[toki-pona-lessons_de.epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.epub) Generiertes Buch (epub)  
-Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
 
-### Dictionary
+### Toki Pona - Deutsch Wörterbuch
 
-[Toki Pona - Deutsch Wörterbuch](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/dictionary.html) Generierte Online-Version.
+[Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/dictionary.html) 
 
-[toki-pona_deutsch.txt](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.txt) Generiertes Text-Datei für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
+[Text-Datei](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.txt) für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
 
 ![ding](ding01.png?raw=true "ding")
 
@@ -46,7 +51,7 @@ Das manuelle Generieren der PDF- und HTML- und TXT-Dateien kann unter Ubuntu erf
 
 
     sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
-    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript
+    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript calibre
 
 
 
