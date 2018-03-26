@@ -1,12 +1,11 @@
-# Toki Pona - Lektionen auf Deutsch
+# Toki Pona - Lektionen und Wörterbuch 
+
 Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache toki pona ist der Minimalismus. toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden. 
 
 Diese Lektionen basieren auf dem offiziellen Toki Pona Buch von Sonja Lang ( [tokipona.org](http://tokipona.org) ) und 
 den Lektionen von jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/janpije/) ).  
 
-## Generierte PDF- HTML- und TXT-Dateien
-
-### Lektionen 
+## Lektionen 
 
 Diese Lektionen können in unterschiedlichen Formaten herunter geladen werden. 
 Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
@@ -26,7 +25,7 @@ Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet,
 Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 
 
-### Toki Pona - Deutsch Wörterbuch
+## Toki Pona - Deutsch Wörterbuch
 
 [Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/dictionary.html) 
 
@@ -39,13 +38,13 @@ Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Brow
 ![ding](ding03.png?raw=true "ding")
 
 
-### Source Codes
+## Source Codes
 
-Die PDF-, HTML- und TXT-Dateien werden automatisch aus den Latex-Dateien per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
+Die PDF-, HTML-, EBook- und TXT-Dateien werden automatisch aus den Latex-Dateien per [travis-ci.org](https://travis-ci.org/jan-Lope/Toki_Pona_Lektionen_Deutsch) generiert.
 
 Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch) veröffentlicht.  
 
-### Manuelles Generieren
+## Manuelles Generieren
 
 Das manuelle Generieren der PDF- und HTML- und TXT-Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
 
