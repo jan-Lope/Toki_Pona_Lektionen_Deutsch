@@ -1,4 +1,4 @@
-## 2018-03-26 Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/
+## 2018-04-04 Automatically generated from the Toki Pona lessons. https://github.com/jan-Lope/
 ## Diese Datei ist verwendbar mit der software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ). 
 jan Eliku Kulaputon :: Eric Clapton 
 jan Elu :: Elfe 
