@@ -21,8 +21,7 @@ Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet,
 
 [azw3](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.azw3)
 
-[HTML-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Generierte Online-Version.
-Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
+[Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 
 
 ## Toki Pona - Deutsch Wörterbuch
