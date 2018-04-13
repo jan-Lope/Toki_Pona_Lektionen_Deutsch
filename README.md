@@ -1,3 +1,7 @@
+<!--
+  Description: Toki Pona, Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache ist der Minimalismus. 
+  -->
+  
 # Toki Pona - Lektionen und Wörterbuch 
 
 Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache toki pona ist der Minimalismus. toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden. 
