@@ -14,15 +14,16 @@ den Lektionen von jan Pije ( [tokipona.net/tp/janpije](http://tokipona.net/tp/ja
 Diese Lektionen können in unterschiedlichen Formaten herunter geladen werden. 
 Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
 
-[pdf (A4)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.pdf) 
+[pdf (A4)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.pdf) | 
+[pdf (letter)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-letter.pdf) 
 
-[pdf (booklet A5)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet.pdf) 
-Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4-Seite abgebildet, so dass ein daraus ein Booklet (A5) erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
-[epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.epub)
+[pdf (booklet A5)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet.pdf) | 
+[pdf (booklet letter)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet-letter.pdf) 
+Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4/Letter-Seite abgebildet, so dass ein daraus ein Booklet erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
-[mobi](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.mobi)
-
+eBook: [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.epub) | 
+[mobi](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.mobi) | 
 [azw3](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.azw3)
 
 [Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
