@@ -7,6 +7,7 @@
 ###############################################################################
 #
 TEX_FILE="toki-pona-lessons_de"
+LATEX_FILE_WORD_LIST="nimi_pi_toki_pona"
 MAN_FILE="toki-pona.6"
 TODAY=`date +"%Y-%m-%d"`
 # export LANG=C.UTF-8
@@ -240,6 +241,41 @@ fi
 rm -f _build/dictionary.coffee
 cp dictionary.html _build/
 #
+echo "make rtf file with official word list"
+rm -f $LATEX_FILE_WORD_LIST*
+# Generiere ein einfaches Latex-File des Dictionaries
+echo "\documentclass[10pt,a4paper]{article}"          > $LATEX_FILE_WORD_LIST.tex
+echo "\usepackage[utf8]{inputenc}"                   >> $LATEX_FILE_WORD_LIST.tex
+echo "\usepackage{amssymb}"                          >> $LATEX_FILE_WORD_LIST.tex
+echo "\begin{document}"                              >> $LATEX_FILE_WORD_LIST.tex
+echo "\title{Toki Pona - Wortliste}"                 >> $LATEX_FILE_WORD_LIST.tex
+echo "\author{jan Lope https://jan-lope.github.io/}" >> $LATEX_FILE_WORD_LIST.tex
+echo "\date"                                         >> $LATEX_FILE_WORD_LIST.tex
+echo "\today"                                        >> $LATEX_FILE_WORD_LIST.tex
+echo "\maketitle"                                    >> $LATEX_FILE_WORD_LIST.tex
+echo "\begin{tabular}{lll}"                          >> $LATEX_FILE_WORD_LIST.tex
+fgrep "&&" dict.tex                                  >> $LATEX_FILE_WORD_LIST.tex
+echo "\end{tabular}"                                 >> $LATEX_FILE_WORD_LIST.tex
+echo "\end{document}"                                >> $LATEX_FILE_WORD_LIST.tex
+# latex $LATEX_FILE_WORD_LIST.tex
+# latex2html  $LATEX_FILE_WORD_LIST.tex 
+if [ ! -f $LATEX_FILE_WORD_LIST.tex ]; then
+	echo "ERROR"
+	exit 1
+fi
+latex2rtf $LATEX_FILE_WORD_LIST.tex
+if [ $? != 0  ]; then
+	echo "ERROR"
+	exit 1
+fi
+rm -f _build/$LATEX_FILE_WORD_LIST*
+cp $LATEX_FILE_WORD_LIST.rtf _build/
+if [ ! -f _build/$LATEX_FILE_WORD_LIST.rtf ]; then
+	echo "ERROR"
+	exit 1
+fi
+rm -rf $LATEX_FILE_WORD_LIST*
+#
 # Generiere ein UNIX manual page mit dem Wörterbuch
 echo "make man page of official word list"
 rm -f ./$MAN_FILE
@@ -252,7 +288,8 @@ echo "Das Ziel der von Sonja Lang (2001) kuenstlich geschaffenen Sprache toki po
 echo "toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden." >> $MAN_FILE
 echo ".SH DICTIONARY"                           >> $MAN_FILE
 #
-fgrep "&&" dict.tex  | fgrep "\\" | fgrep -v "%" | sed -e 's#'\dots'#''#g' | sed -e 's#\\#''#g' | \
+fgrep "&&" dict.tex  | iconv -f ISO-8859-1 -t UTF-8 | fgrep "\\" | fgrep -v "%" | sed -e 's#'\dots'#''#g' | sed -e 's#\\#''#g' | \
+	sed -e 's#'\glqq'#'\''#g' | sed -e 's#'\grqq'#'\''#g' | \
 	sed -e 's#'\textbf{'#'@'#g' | sed -e 's#'\textit{'#'@'#g' | sed -e 's#'}:'#'@'#g' | sed -e 's#'}'#'@'#g' | \
 	sed -e 's#'@\ '#'@'#g' 	| sed -e 's#'\"'#'\'\''#g' | sed -e 's#'\&'#''#g' | \
 	sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | \

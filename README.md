@@ -54,7 +54,7 @@ Das manuelle Generieren der PDF- und HTML- und TXT-Dateien kann unter Ubuntu erf
 
 
     sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
-    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript calibre
+    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript calibre latex2rtf
 
 
 
