@@ -254,7 +254,7 @@ echo "\date"                                         >> $LATEX_FILE_WORD_LIST.te
 echo "\today"                                        >> $LATEX_FILE_WORD_LIST.tex
 echo "\maketitle"                                    >> $LATEX_FILE_WORD_LIST.tex
 echo "\begin{tabular}{lll}"                          >> $LATEX_FILE_WORD_LIST.tex
-fgrep "&&" dict.tex                                  >> $LATEX_FILE_WORD_LIST.tex
+fgrep "&&" dict.tex | iconv -f ISO-8859-1 -t UTF-8   >> $LATEX_FILE_WORD_LIST.tex
 echo "\end{tabular}"                                 >> $LATEX_FILE_WORD_LIST.tex
 echo "\end{document}"                                >> $LATEX_FILE_WORD_LIST.tex
 # latex $LATEX_FILE_WORD_LIST.tex
