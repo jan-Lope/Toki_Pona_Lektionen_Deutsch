@@ -31,7 +31,10 @@ eBook [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-page
 
 ## Toki Pona Wortliste
 
-[unix man page](https://github.com/jan-Lope/Toki_Pona_lessons_English/raw/gh-pages/toki-pona.6.gz)
+[rtf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.rtf) 
+Dieses Format wird von fast allen Textprogrammen unterstützt. 
+
+[unix man page](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona.6.gz) 
 Unix, Linux und Mac OS X: sudo cp toki-pona.6* /usr/share/man/man6/ ; man toki-pona
 
 
