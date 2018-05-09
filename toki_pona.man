@@ -1,0 +1,6 @@
+.TH man 6 2018-05-08 Toki Pona - Dictionary
+.SH NAME
+Toki Pona - Dictionary
+.SH DESCRIPTION
+Toki Pona is a constructed language that favors simplicity over clarity, and touts itself as 'the language of good. The simple way of life.' Toki Pona has only about 120 words.
+.SH DICTIONARY
