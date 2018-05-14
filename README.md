@@ -1,7 +1,9 @@
 <!--
   Description: Toki Pona, Das Ziel der von Sonja Lang (2001) künstlich geschaffene Sprache ist der Minimalismus. 
   -->
-  
+
+[English](https://jan-lope.github.io/Toki_Pona_lessons_English/)
+
 # Toki Pona - Lektionen und Wörterbuch 
 
 Das Ziel der von Sonja Lang (2001) künstlich geschaffenen Sprache toki pona ist der Minimalismus. toki pona besteht aus nur etwa 120 Wörtern, die in ihrer Form auch nicht verändert werden. 
@@ -12,7 +14,7 @@ Diese Lektionen basieren auf den Lektionen (2015) von jan Pije ( [tokipona.net/t
 ## Lektionen 
 
 Diese Lektionen können in unterschiedlichen Formaten herunter geladen werden. 
-Drücke den "Download"-Button. Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
+Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers. 
 
 [pdf (A4)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.pdf) | 
 [pdf (letter)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-letter.pdf) 
@@ -29,7 +31,7 @@ eBook [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-page
 [Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de/index.html) Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Browsers.  
 
 
-## Toki Pona Wortliste
+## Liste der offiziellen Toki Pona Wörter
 
 [rtf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.rtf) 
 Dieses Format wird von fast allen Textprogrammen unterstützt. 
