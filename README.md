@@ -24,6 +24,7 @@ Erscheint der Fehler 404, drücke die Shift-Taste und den Reload-Button des Brow
 [pdf (booklet letter)](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de-booklet-letter.pdf) 
 Bei der Booklet-Version werden jeweils zwei Seiten auf eine A4/Letter-Seite abgebildet, so dass ein daraus ein Booklet erstellt werden kann. Dazu werden erst alle ungeraden Seiten ausgedruckt. Dann legt man die Blätter wieder ins Papierfach zurück und druckt alle geraden Seiten in absteigender Reihenfolge aus. 
 
+
 eBook [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.epub) | 
 [mobi](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.mobi) | 
 [azw3](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/toki-pona-lessons_de.azw3)
