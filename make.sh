@@ -8,11 +8,11 @@
 #
 TEX_FILE="toki-pona-lessons_de"
 LATEX_FILE_WORD_LIST="nimi_pi_toki_pona"
-TXT_DICT_FILE="toki-pona-dict.txt"
-CSV_DICT_FILE="toki-pona-dict.csv"
+TXT_DICT_FILE="nimi_pi_toki_pona.txt"
+CSV_DICT_FILE="nimi_pi_toki_pona.csv"
 MAN_FILE="toki-pona.6"
 TODAY=`date +"%Y-%m-%d"`
-# export LANG=C.UTF-8
+#
 echo " "
 echo "########################################################################"
 echo "start $0"

@@ -33,6 +33,11 @@ eBook [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-page
 
 ## Liste der offiziellen Toki Pona Wörter
 
+[txt](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.txt) 
+
+[csv](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.csv) 
+Dieses Format wird von vielen Kalkulations- und Datenbankprogrammen unterstützt. 
+
 [rtf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.rtf) 
 Dieses Format wird von fast allen Textprogrammen unterstützt. 
 
