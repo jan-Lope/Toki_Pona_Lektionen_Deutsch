@@ -63,7 +63,7 @@ Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-
 
 ## Manuelles Generieren
 
-Das manuelle Generieren der PDF- und HTML- und TXT-Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
+Das manuelle Generieren der Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
 
 
     sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
