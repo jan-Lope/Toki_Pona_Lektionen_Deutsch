@@ -264,11 +264,12 @@ cp dictionary.html _build/
 #
 echo "make a csv dictionary file "
 rm -f $CSV_FILE_DICT
-cat _build/toki-pona_english.txt | iconv -f ISO-8859-1 -t UTF-8  | sed -e 's#'::'#'@'#g' | fgrep -v "##"  | \
+cat _build/toki-pona_deutsch.txt | iconv -f ISO-8859-1 -t UTF-8  | sed -e 's#'::'#'@'#g' | fgrep -v "##"  | \
 		sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | \
 		sed -e 's#'\ @'#'@'#g' | sed -e 's#'\ @'#'@'#g' | \
 	    awk -F\@ '{print "\"" $1 "\",\"" $2 "\"" }' | sort | uniq >> $CSV_FILE_DICT
-if [ ! -f $CSV_FILE_DICT ]; then
+fgrep "mi moku" $CSV_FILE_DICT > /dev/null 2> /dev/null
+if [ $? != 0  ]; then
 	echo "ERROR"
 	exit 1
 fi
