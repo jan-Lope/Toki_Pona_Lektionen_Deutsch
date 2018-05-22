@@ -46,13 +46,12 @@ Unix, Linux und Mac OS X: sudo cp toki-pona.6* /usr/share/man/man6/ ; man toki-p
 
 [Online-Version](https://htmlpreview.github.io/?https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/dictionary.html) 
 
-[Text-Datei](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.txt) für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
+[csv](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.csv) 
+
+[txt](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.txt) für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
 
 ![ding](ding01.png?raw=true "ding")
 
-![ding](ding02.png?raw=true "ding")
-
-![ding](ding03.png?raw=true "ding")
 
 
 ## Source Codes
@@ -67,7 +66,7 @@ Das manuelle Generieren der Dateien kann unter Ubuntu erfolgen. Dazu sind folgen
 
 
     sudo apt-get install texlive texlive-base texlive-latex-base texlive-extra-utils texlive-binaries texlive-extra-utils texlive-font-utils texlive-pictures texlive-pstricks texlive-latex-extra 
-    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript calibre latex2rtf
+    sudo apt-get install latex2html latex-xcolor npm nodejs coffeescript calibre latex2rtf dictfmt
 
 
 
