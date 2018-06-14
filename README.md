@@ -36,7 +36,8 @@ eBook [epub](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-page
 
 [txt](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.txt)  | 
 [csv](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.csv)  | 
-[rtf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.rtf) 
+[rtf](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.rtf)  |
+[otm-json](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona.json) 
 
 [dict](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona-dict.dict)  | 
 [index](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/raw/gh-pages/nimi_pi_toki_pona-dict.index) 
