@@ -53,6 +53,8 @@ Unix, Linux und Mac OS X: sudo cp toki-pona.6* /usr/share/man/man6/ ; man toki-p
 
 [csv](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.csv) 
 
+[otm-json](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona-lessons_de.json) 
+
 [txt](https://raw.githubusercontent.com/jan-Lope/Toki_Pona_Lektionen_Deutsch/gh-pages/toki-pona_deutsch.txt) für die Software [ding](http://www-user.tu-chemnitz.de/~fri/ding/).
 
 ![ding](ding01.png?raw=true "ding")

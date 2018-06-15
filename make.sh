@@ -285,6 +285,67 @@ fi
 #
 ###############################################################################
 #
+echo "make otm jsonfile with dictionary"
+rm -f $OTM_JSON_FILE_DICTIONARY_FILE
+echo '{'                                                                                        > $OTM_JSON_FILE_DICTIONARY_FILE
+echo '  "words" : ['                                                                           >> $OTM_JSON_FILE_DICTIONARY_FILE
+fgrep "&&" dict.tex | iconv -f ISO-8859-1 -t UTF-8 | fgrep "\\" | fgrep -v "%" | sed -e 's#'\dots'#''#g' | sed -e 's#\\#''#g' | \
+        sed -e 's#'\glqq'#'\''#g' | sed -e 's#'\grqq'#'\''#g' | \
+        sed -e 's#'\textbf{'#'@'#g' | sed -e 's#'\textit{'#'@'#g' | sed -e 's#'}:'#'@'#g' | sed -e 's#'}'#'@'#g' | \
+        sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | \
+        sed -e 's#'\"'#'\'\''#g' | sed -e 's#'\&'#''#g' | \
+        sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | sed -e 's#'\ \ '#'\ '#g' | \
+        awk -F\@ '{print "    {\n    \"entry\" : {\n      \"id\" : "NR ",\n      \"form\" : \"" $2 "\"\n    },\n    \"translations\" : [ {\n      \"title\" : \"" $4 "\",\n      \"forms\" : [ \""$5"\" ]\n    } ],\n    \"tags\" : [ ],\n    \"contents\" : [ ],\n    \"variations\" : [ ],\n    \"relations\" : [ ]\n    } , "}'  >> $OTM_JSON_FILE_DICTIONARY_FILE
+cat _build/toki-pona_deutsch.txt | iconv -f ISO-8859-1 -t UTF-8  | sed -e 's#'::'#'@'#g' | fgrep -v "##"  | \
+		sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | sed -e 's#'@\ '#'@'#g' | \
+		sed -e 's#'\ @'#'@'#g' | sed -e 's#'\ @'#'@'#g' | sed -e 's#'\"'#'\\\\\"'#g' | \
+		fgrep -v "Adjektiv:" | fgrep -v "Substantiv:" | fgrep -v "Ziffer:" | fgrep -v "transitiv:" | fgrep -v " Konjunktion:" | fgrep -v "Interjektion:" | \
+		fgrep -v "position:" | fgrep -v "Separator:" | fgrep -v "Subjekt:" | fgrep -v "inoffiziell:" | fgrep -v "transitive:" | fgrep -v "verb:" | \
+        awk -F\@ '{print "    {\n    \"entry\" : {\n      \"id\" : "NR+10000 ",\n      \"form\" : \"" $1 "\"\n    },\n    \"translations\" : [ {\n      \"title\" : [ ],\n      \"forms\" : [ \""$2"\" ]\n    } ],\n    \"tags\" : [ ],\n    \"contents\" : [ ],\n    \"variations\" : [ ],\n    \"relations\" : [ ]\n    } , "}'  >> $OTM_JSON_FILE_DICTIONARY_FILE
+sed -i '$ d' $OTM_JSON_FILE_DICTIONARY_FILE  # cut last line
+cat >> $OTM_JSON_FILE_DICTIONARY_FILE <<EOF 
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "alphabetOrderType" : "UNICODE",
+    "punctuations" : [ "🗿" ],
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
+EOF
+if [ ! -f $OTM_JSON_FILE_DICTIONARY_FILE ]; then
+	echo "ERROR"
+	exit 1
+fi
+rm -f _build/$OTM_JSON_FILE_DICTIONARY_FILE
+cp $OTM_JSON_FILE_DICTIONARY_FILE _build/
+if [ ! -f _build/$OTM_JSON_FILE_DICTIONARY_FILE ]; then
+	echo "ERROR"
+	exit 1
+fi
+
+
+
+
+
+
+#
+###############################################################################
+#
 echo "make csv file with official word list"
 rm -f $CSV_FILE_WORD_LIST
 fgrep "&&" dict.tex  | iconv -f ISO-8859-1 -t UTF-8 | fgrep "\\" | fgrep -v "%" | sed -e 's#'\dots'#''#g' | sed -e 's#\\#''#g' | \
