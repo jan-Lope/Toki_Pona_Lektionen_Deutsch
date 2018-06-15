@@ -13,6 +13,7 @@ TXT_FILE_WORD_LIST="nimi_pi_toki_pona.txt"
 CSV_FILE_WORD_LIST="nimi_pi_toki_pona.csv"
 DICT_FILE_WORD_LIST="nimi_pi_toki_pona-dict"
 MAN_FILE_WORD_LIST="toki-pona.6"
+OTM_JSON_FILE_DICTIONARY_FILE="$TEX_FILE.json"
 OTM_JSON_FILE_WORD_LIST="nimi_pi_toki_pona.json"
 TODAY=`date +"%Y-%m-%d"`
 #
@@ -438,7 +439,7 @@ echo "man toki-pona"
 #
 ###############################################################################
 #
-echo "make txt file with official word list"
+echo "make otm jason file with official word list"
 rm -f $OTM_JSON_FILE_WORD_LIST
 echo '{'                                                                                        > $OTM_JSON_FILE_WORD_LIST
 echo '  "words" : ['                                                                           >> $OTM_JSON_FILE_WORD_LIST

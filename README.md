@@ -65,6 +65,11 @@ Die PDF-, HTML-, EBook- und TXT-Dateien werden automatisch aus den Latex-Dateien
 
 Die Latex-Datei und die anderen Dateien sind in [Github](https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch) veröffentlicht.  
 
+Mit dem Git-Client holte man sich die Quellen.
+
+	git clone https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch.git
+	
+
 ## Manuelles Generieren
 
 Das manuelle Generieren der Dateien kann unter Ubuntu erfolgen. Dazu sind folgende Pakete zu installieren:
