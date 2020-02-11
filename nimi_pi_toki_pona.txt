@@ -1,0 +1,1314 @@
+Toki Pona - Woerterbuch 2020-02-11
+https://jan-lope.github.io
+
+.
+Separator: Beendet wird ein Aussagesatz ((Deklarativsatz)) mit einem Punkt. Verwende einen Punkt nicht zusammmen mit einem der anderen Separatoren. 
+
+!
+Separator: Aufforderungssätze (Imperativ) und Ausrufesätze (Interjektionen, Exclamatory) enden mit einem Ausrufungszeichen. Verwende ein Ausrufungszeichen nicht zusammmen mit einem der anderen Separatoren. 
+
+?
+Separator: Beendet wird eine Frage (Interrogativ) mit einem Fragezeichen. Verwende ein Fragezeichen nicht zusammmen mit einem der anderen Separatoren. 
+
+:
+Separator: Ein Doppelpunkt trennt ein Hinweis-Satz von einem Satz. Jeweils vor und nach dem Doppelpunkt muss ein vollständiger Satz sein. Verwende einen Doppelpunkt nicht zusammmen mit einem der anderen Separatoren. 
+
+,
+Separator: Ein Komma wird nach ' o' verwendet, wenn man Leute anspricht. Optional kann es vor einer Präposition eingefügt werden. Verwende ein Komma nicht zusammmen mit einem der anderen Separatoren ausser ' li'. 
+
+''
+Separator: Anführungszeichen werden für Zitate oder Originalschreibweise verwendet. 
+
+'
+inoffiziell: Ein Apostroph kann ein Prädikat, das kein Verb enthält, kennzeichnen. 
+
+#
+inoffiziell: Zur Kennzeichnung von Zahlen 
+
+a
+Interjektion: ah, ha, uh, oh, ooh, aw, well (emotionales Wort) 
+
+a a a!
+Interjektion: Lachen 
+
+akesi
+Adjektiv: Amphibien-, Reptilien-, schleimig 
+
+akesi
+Substantiv: Reptil, Lurch, Amphibie, Saurier, Schlange, Drache, Frosch, Schildkröte 
+
+ala
+Adjektiv: nein, nichts, un- 
+
+ala
+Adjektiv, Ziffer: Null, 0 
+
+ala
+Adverb: nicht, un- 
+
+ala!
+Interjektion: Nein! 
+
+ala
+Substantiv: Nichts, Negation, Null 
+
+alasa
+Adjektiv: jagend 
+
+alasa
+Substantiv: Jagd 
+
+alasa (e )
+Verb, transitiv: jagen, verfolgen und töten, nach Futter suchen 
+
+ale
+Adjektiv: alle(r/s), je, jeweils, komplett, ganz, (ale = ali), (veraltet) 
+
+ale
+Adjektiv, Ziffer: 100 (offizielles Toki Pona Buch) 
+
+ale
+Adverb: alle(r/s), je, jeweils, komplett, ganz, (ale = ali), (veraltet) 
+
+ale
+Substantiv: Alles, Etwas, Leben, Universium, Welt (veraltet) 
+
+ali
+Adjektiv: alle(r/s), je, jeweils, komplett, ganz 
+
+ali
+Adverb: alle(r/s), je, jeweils, komplett, ganz 
+
+ali
+Substantiv: Alles, Etwas, Leben, Universium, Welt 
+
+anpa
+Adjektiv: unten, tief, niedrig 
+
+anpa
+Adverb: tief, niedrig 
+
+anpa
+Substantiv: Boden, Erdboden, Grund, Talsohle 
+
+anpa
+Verb, intransitiv: sich unterwerfen 
+
+anpa (e )
+Verb, transitiv: niederlassen, absenken, abseilen, herunterholen, besiegen, bezwingen 
+
+ante
+Adjektiv: unterschiedlich, verschieden (von) 
+
+ante
+Substantiv: Unterschied, Abweichung, Differenz 
+
+ante la 
+Substantiv: Wenn Unterschied, bei Abweichung, bei Differenz 
+
+ante (e )
+Verb, transitiv: wechseln; umschalten, ändern, abändern, verändern, modifizieren 
+
+anu 
+Konjunktion: oder 
+
+awen
+Adjektiv: bleibend; verbleibend, feststehend, ortsfest, parkend, permanent, sesshaft 
+
+awen
+Adverb: verbleibend, noch, gerade beim ... 
+
+awen
+Substantiv: Trägheit, Kontinuität, Kontinuum, Aufenthalt 
+
+awen
+Verb, intransitiv: bleiben, verbleiben, sich aufhalten, warten 
+
+awen (e )
+Verb, transitiv: behalten; nicht weggeben 
+
+e 
+Separator: Ein ' e' leitet das direkte Objekt ein. Verwende ein ' e' nicht zusammmen mit einem der anderen Separatoren. 
+
+en 
+Konjunktion: und (um Haupt-Substantive zu verbinden) 
+
+esun
+Adjektiv: kommerziell, gewerblich, kaufmännisch, verkäuflich 
+
+esun
+Substantiv: Markt, Shop 
+
+esun (e )
+Verb, transitiv: kaufen, verkaufen, tauschen 
+
+ijo
+Adjektiv: für etwas 
+
+ijo
+Adverb: für etwas 
+
+ijo
+Substantiv: Ding, Sache, Zeug, Krempel, Gegenstand, Objekt 
+
+ijo (e )
+Verb, transitiv: objektivieren 
+
+ike
+Adjektiv: schlecht, schlimm, übel, böse, ungezogen, falsch, zu komplex, ungesund 
+
+ike
+Adverb: schlecht, schlimm, übel, böse, ungezogen, falsch, zu komplex, ungesund 
+
+ike!
+Interjektion: Mist! Leider! Sch ! 
+
+ike
+Substantiv: Negativität, Übel, Böse, Schlechtigkeit, Verderbtheit 
+
+ike la 
+Substantiv: wenn Übel ..., bei Verderbtheit, aus Boshaftigkeit 
+
+ike
+Verb, intransitiv: schlecht sein, jdm. in den Arsch kriechen 
+
+ike (e )
+Verb, transitiv: schlecht machen, verschlechtern, schlechten Einfluss auf 
+
+ilo
+Adjektiv: nützlich 
+
+ilo
+Adverb: nutzbringend 
+
+ilo
+Substantiv: Werkzeug, Gerät, Tool, Vorrichtung, Apparat, Maschine 
+
+insa
+Adjektiv: intern, zentral 
+
+insa
+Substantiv: Innere, Innenseite, Zentrum, Magen 
+
+jaki
+Adjektiv: schmutzig, dreckig, schmierig, unsauber, schmuddelig, obszön 
+
+jaki
+Adverb: schmutzig, dreckig, schmierig; unsauber; schmuddelig; versifft, grob 
+
+jaki!
+Interjektion: Igit! Ekelhaft! 
+
+jaki
+Substantiv: Dreck, Schmutz, Verschmutzung, Müll, Schrott, Kot 
+
+jaki (e )
+Verb, transitiv: verschmutzen, verunreinigen, verpesten 
+
+jan
+Adjektiv: persönlich, human, jemandes 
+
+jan
+Adverb: persönlich, human, jemandes 
+
+jan
+Substantiv: Mensch, Person, Leute, Jemand 
+
+jan (e )
+Verb, transitiv: personifizieren, verkörpern, vermenschlichen, personalisieren 
+
+jelo
+Adjektiv: gelb, hellgrün 
+
+jelo
+Substantiv: Gelb, Hellgrün 
+
+jo
+Adjektiv: privat, persönlich 
+
+jo
+Substantiv: Besitz, Inhalt 
+
+jo (e )
+Verb, transitiv: haben, enthalten, umfassen 
+
+jo (e )
+Verb, transitiv: erhalten, bekommen, kriegen, abkriegen, nehmen 
+
+kala
+Adjektiv: fischig 
+
+kala
+Substantiv: Wasserlebewesen, Fisch, Qualle, Tintenfisch, Muschel 
+
+kalama
+Adjektiv: laut, geräuschvoll, lautstark 
+
+kalama
+Substantiv: Laut, Sound, Geräusch, Stimme 
+
+kalama
+Verb, intransitiv: Geräusch machen, laut sein 
+
+kalama (e )
+Verb, transitiv: klingen, läuten, klingeln, ein Instrument spielen 
+
+kama
+Adjektiv: einkehrend, kommend, zukünftig 
+
+kama
+Adverb: einkehrend, kommend, zukünftig 
+
+kama
+Substantiv: Zukunft, Chance, Ankunft, Anreise, Anfang, Beginn 
+
+kama
+Verb, intransitiv: kommen, werden, anfangen, eintreffen, ankommen, 
+
+kama 
+Hilfsverb: werde(n), er- 
+
+kama (e )
+Verb, transitiv: bewerkstelligen, herbeiführen 
+
+kasi
+Adjektiv: vegetarisch, pflanzlich, biologisch 
+
+kasi
+Substantiv: Pflanze, Blatt, Kraut, Baum, Strauch, Gras, Pilz 
+
+kasi
+Verb, intransitiv: (selber) wachsen 
+
+kasi (e )
+Verb, transitiv: (ein-)pflanzen 
+
+ken
+Substantiv: Möglichkeit, Fähigkeit, Begabung, Erlaubnis, Genehmigung, Freigabe 
+
+ken la )
+Substantiv: es besteht die Möglichkeit, bei Erlaubnis, bei Genehmigung 
+
+ken
+Verb, intransitiv: kann, ist fähig zu, ist bemächtigt zu, mögen; dürfen, ist möglich 
+
+ken 
+Hilfsverb: kann ... 
+
+ken (e )
+Verb, transitiv: möglich machen, anordnen, aktivieren, freigeben, erlauben 
+
+kepeken
+Substantiv: Nutzung, Verwendung, Werkzeug 
+
+kepeken 
+Präposition: mit, mittels, per 
+
+kepeken
+Verb, intransitiv: benutzen, verwenden, anwenden, nutzen, gebrauchen 
+
+kili
+Adjektiv: fruchtig 
+
+kili
+Adverb: fruchtig 
+
+kili
+Substantiv: Frucht, Obst, Gemüse, Pilz 
+
+kin
+Adjektiv: auch, noch, ebenso, ferner, außerdem, gerade, wirklich, tatsächlich kin kann das letzte Wort in einer Adjektiv-Gruppe sein. 
+
+kin
+Adverb: auch, noch, ebenso, ferner, außerdem, gerade, wirklich, tatsächlich kin kann das letzte Wort in einer Adverb-Gruppe sein. 
+
+kin
+Substantiv: Wirklichkeit, Tatsache, Fakt 
+
+kin la 
+Substantiv: wenn Wirklichkeit, wenn Tatsache 
+
+kipisi 
+Substantiv: (inoffiziell): Abschnitt, Fragment, Scheibe 
+
+kipisi (e )
+Verb, transitiv: (inoffiziell): schneiden 
+
+kiwen
+Adjektiv: hart, schwer, heftig, fest, solid, stabil, robust, steinhart 
+
+kiwen
+Adverb: hart, schwer, heftig, fest, solid, stabil, robust, steinhart 
+
+kiwen
+Substantiv: Felsbrocken, Fels, Stein, Metall, Mineral, Lehm 
+
+kiwen (e )
+Verb, transitiv: verfestigen, verhärten, versteinern 
+
+ko
+Substantiv: halbfeste Substanz, Paste, Puder, Gummi, Kleber, Mehl, Brei, Pulver 
+
+ko (e )
+Verb, transitiv: zerquetschen, pulverisieren 
+
+kon
+Adjektiv: luftig, ätherisch, gasförmig, gasartig 
+
+kon
+Adverb: luftig, ätherisch, gasförmig, gasartig 
+
+kon
+Substantiv: Luft, Atmosphäre, Wind, Odor, Geruch, Seele, Geist 
+
+kon
+Verb, intransitiv: atmen 
+
+kon (e )
+Verb, transitiv: wegblasen 
+
+kule
+Adjektiv: farbenfreudig 
+
+kule
+Substantiv: Farbe, Lack 
+
+kule (e )
+Verb, transitiv: färben, anstreichen, streichen 
+
+kulupu
+Adjektiv: kommunal, geteilt, öffentlich 
+
+kulupu
+Substantiv: Gruppe, Gemeinde, Gemeinschaft, Gemeinsamkeit, Gesellschaft 
+
+kulupu (e )
+Verb, transitiv: montieren, zusammenbauen, zusammenrufen 
+
+kute
+Adjektiv: auditiv, feinhörig 
+
+kute
+Substantiv: Gehör, Hörsinn 
+
+kute (e )
+Verb, transitiv: hören, zuhören 
+
+la 
+Separator: Ein ' la' trennt eine Konditional-Phrase von einem Satz. Verwende ein ' la' nicht zusammmen mit einem der anderen Separatoren. 
+
+lape
+Adjektiv: schlafend 
+
+lape
+Adverb: schlafend 
+
+lape
+Substantiv: Schlaf, Ruhe, Pause 
+
+lape
+Verb, intransitiv: schlafen, ruhen, dösen, liegen 
+
+lape (e )
+Verb, transitiv: bewusstlos schlagen 
+
+laso
+Adjektiv: blau, cyan 
+
+laso
+Substantiv: Blau, Cyan 
+
+lawa
+Adjektiv: Haupt- , größt- , wichtigst-, Leit-, tonangebend 
+
+lawa
+Adverb: führend, 
+
+lawa
+Substantiv: Kopf, Sinn, Meinung, Ansicht 
+
+lawa (e )
+Verb, transitiv: führen, lenken, kontrollieren, steuern, herrschen 
+
+len
+Adjektiv: gekleidet, kostümiert, verkleidet 
+
+len
+Substantiv: Kleidung, Bekleidung, Stoff, Tuch, Lappen, Gewebe, Netzwerk, Internet 
+
+len (e )
+Verb, transitiv: (Kleidung) tragen, verkleiden 
+
+lete
+Adjektiv: kalt, frostig, roh, ungekocht 
+
+lete
+Adverb: trostlos 
+
+lete
+Substantiv: Kälte 
+
+lete (e )
+Verb, transitiv: erkalten, kühlen, gefrieren, vereisen 
+
+li 
+Separator: Er trennt die Subjekt-Phrase, außer ' mi' und ' sina'von, von der Prädikat-Phrase. Verwende ein ' li' nicht zusammmen mit einem der anderen Separatoren. 
+
+lili
+Adjektiv: klein, gering, unbedeutend, wenig, kaum, schwerlich, jung, ein wenig, kurz 
+
+lili
+Adverb: wenig 
+
+lili
+Substantiv: Kleinheit, Jugend, Unmündigkeit 
+
+lili (e )
+Verb, transitiv: verkleinern, verringern, ermäßigen, schrumpfen 
+
+linja
+Adjektiv: länglich, rechteckig, lang 
+
+linja
+Substantiv: Faden, Kette, Saite, Schnur, Sehne, Leine, Haar, Zwirn 
+
+lipu
+Adjektiv: Buch-, Papier-, Karten-, Ticket-, Bogen-, Seiten- 
+
+lipu
+Substantiv: Schriftstück, z.B. Papier, Pappe, Karte, Ticket, Website, Blog, Liste 
+
+loje
+Adjektiv: rot, rötlich 
+
+loje
+Substantiv: Rot 
+
+lon
+Adjektiv: real, wahr, bestehend, richtig, echt 
+
+lon
+Substantiv: Existenz, Sein, Präsenz 
+
+lon 
+Präposition: in, im, an, am, bei, auf 
+
+lon
+Verb, intransitiv: anwesend sein, vorhanden sein, enthalten sein, existieren, leben 
+
+lon (e )
+Verb, transitiv: gebären, erschaffen 
+
+luka
+Adjektiv: greifbar, Tast- 
+
+luka
+Adjektiv, Ziffer: fünf, 5 
+
+luka
+Substantiv: Hand, Arm 
+
+lukin
+Adjektiv: optisch, sichtbar, visuell 
+
+lukin
+Adverb: optisch, sichtbar, visuell 
+
+lukin
+Substantiv: Sicht, Blick, Sehen, Vision 
+
+lukin
+Verb, intransitiv: aussehen, aufpassen (auf), Ausschau halten (nach), achten auf 
+
+lukin (e )
+Verb, transitiv: sehen, betrachten, lesen 
+
+lukin 
+Hilfsverb: sehen 
+
+lupa
+Adjektiv: löchrig 
+
+lupa
+Substantiv: Loch, Höhle; Bau, Mündung, Öffnung, Ausguss, Fenster, Tür, Tor 
+
+lupa (e )
+Verb, transitiv: durchbohren, erstechen, perforieren 
+
+ma
+Adjektiv: ländlich, im Freien, Open-Air- 
+
+ma
+Substantiv: Land, Gegend, Erde, Staat, Kontinent, Gebiet, Zone, Areal 
+
+mama
+Adjektiv: elterlich, mütterlich, väterlich 
+
+mama
+Substantiv: Eltern, Mutter, Vater 
+
+mama (e )
+Verb, transitiv: bemuttern 
+
+mani
+Adjektiv: Finanz-, finanziell, Währungs-, Vermögens- 
+
+mani
+Adverb: finanziell 
+
+mani
+Substantiv: Geld, Währung, Euro, Kapital 
+
+meli
+Adjektiv: weiblich, feminin, fraulich 
+
+meli
+Substantiv: Frau, Dame, Lady, Mädchen, Weibchen, Weib, Ehefrau, Freundin 
+
+mi
+Personalpronomen: ich, wir 
+
+mi
+Possessivpronomen: mein, unser 
+
+e mi
+Reflexivpronomen: mich, uns 
+
+mije
+Adjektiv: männlich, maskulin 
+
+mije
+Substantiv: Mann, Kerl, Ehemann, Liebhaber 
+
+moku
+Adjektiv: essend 
+
+moku
+Adverb: essend 
+
+moku
+Substantiv: Essen, Lebensmittel, Nahrung, Nahrungsmittel, Mahlzeit, Fressen 
+
+moku (e )
+Verb, transitiv: essen, trinken, schlucken, verzehren, verspeisen 
+
+moli
+Adjektiv: tot, tödlich, fatal, schwerwiegend 
+
+moli
+Adverb: tödlich 
+
+moli
+Substantiv: Tod, Todesfall 
+
+moli
+Verb, intransitiv: tot sein 
+
+moli (e )
+Verb, transitiv: töten 
+
+moli
+Verb, intransitiv: sterben 
+
+monsi
+Adjektiv: Rück-, Hinter- 
+
+monsi
+Substantiv: Rücken, Heck, Hintern, Po, Arsch 
+
+monsuta
+Adjektiv: (inoffiziell): ängstlich 
+
+monsuta
+Substantiv: (inoffiziell): Monster, Ungeheuer, Fabelwesen, Angst 
+
+mu
+Adjektiv: Tiergeräusch- 
+
+mu
+Adverb: Tiergeräusch- 
+
+mu!
+Interjektion: Wau!, Miau!, Muh! (Tiergeräusch) 
+
+mu
+Substantiv: Tiergeräusch 
+
+mu
+Verb, intransitiv: tierisch kommunizieren 
+
+mu (e )
+Verb, transitiv: Tiergeräusche machen 
+
+mun
+Adjektiv: Mond- 
+
+mun
+Substantiv: Mond, Stern, Planet 
+
+musi
+Adjektiv: kunstvoll, spaßig, Erholung-, Freizeit- 
+
+musi
+Adverb: fröhlich 
+
+musi
+Substantiv: Spaß, Partie, Spiel, Freizeit, Erholung, Kunst, Unterhaltung 
+
+musi
+Verb, intransitiv: spielen, Spaß haben 
+
+musi (e )
+Verb, transitiv: amüsieren, unterhalten, belustigen, bewirten 
+
+mute
+Adjektiv: viel, viele, mehrere, sehr, reichlich, zahlreich, weiter, 
+
+mute
+Adjektiv, Ziffer: 20 (offizielles Toki Pona Buch) 
+
+mute
+Adverb: viel, sehr, reichlich, zahlreich, mehr, weiter, 
+
+mute
+Substantiv: Betrag, Summe, Menge, Quantität 
+
+mute (e )
+Verb, transitiv: viel machen, vermehren 
+
+namako
+Adjektiv: würzig, pikant 
+
+namako
+Substantiv: Gewürz, Salz, Nahrungsergänzung, Kräuter 
+
+namako (e )
+Verb, transitiv: würzen 
+
+nanpa 
+Adjektiv, Ziffer: Zum Bilden von Ordnungszahlen. 
+
+nanpa
+Substantiv: Zahl, Ziffer, Anzahl, Ordnungszahl 
+
+nanpa (e )
+Verb, transitiv: zählen, nummerieren, beziffern, rechnen 
+
+nasa
+Adjektiv: dumm, doof, blöd, töricht, albern, verrückt, übergeschnappt 
+
+nasa
+Adverb: töricht, affig, albern, verrückt, übergeschnappt 
+
+nasa
+Substantiv: Dummheit, Unsinn, Blödsinn, Stumpfheit, Schussel, Wirrkopf 
+
+nasa (e )
+Verb, transitiv: verrückt machen 
+
+nasin
+Adjektiv: systematisch, gewöhnlich, üblich 
+
+nasin
+Substantiv: Weg, Straße, Strecke, Pfad, Methode, Doktrin, Lehre, System 
+
+nena
+Adjektiv: hügelig, bergig, bucklig, holprig 
+
+nena
+Substantiv: Beule, Hügel, Berg, Gebirge, Erhebung, Button, Nase, Rundung 
+
+ni
+adjektivisches Demonstrativpronomen: dies, diese, dieser, dieses (hier), (das) dort, jenes 
+
+ni
+substantivisches Demonstrativpronomen: dies, diese, dieser, dieses (hier), (das) dort, jenes 
+
+nimi
+Substantiv: Wort, Name 
+
+nimi (e ) 
+Verb, transitiv: bennenen, Namen geben 
+
+noka
+Adjektiv: Fuß-, niedriger, unten 
+
+noka 
+adverb: zu Fuß 
+
+noka
+Substantiv: Bein, Fuß 
+
+o!
+Interjektion: Hallo! (um jemandes Aufmerksamkeit zu erwirken) 
+
+o, 
+Interjektion: Leute ansprechen 
+
+o !
+Subjekt: Ein ' o ' wird bei Befehlen verwendet und ersetzt das Subjekt. 
+
+o !
+Separator: Ein ' o ' wird bei Befehlen verwendet und ersetzt ' li '. 
+
+oko
+Adjektiv: optisch, Augen- 
+
+oko
+Substantiv: Auge 
+
+olin
+Adjektiv: Liebes- 
+
+olin
+Substantiv: Liebe 
+
+olin (e )
+Verb, transitiv: (eine Person) lieben 
+
+ona
+Personalpronomen: er, sie, es, sie (Plural) 
+
+ona
+Possessivpronomen: seins, ihres, seine, deren 
+
+e ona
+Reflexivpronomen: seins, ihres, seine, deren 
+
+open
+Adjektiv: (er-)öffnend 
+
+open
+Substantiv: Anfang, Beginn, Start 
+
+open la 
+Substantiv: zu Anfang, bei Beginn, beim Start 
+
+open (e )
+Verb, transitiv: öffnen, andrehen, anmachen, anschalten, beginnen, anfangen 
+
+open 
+Hilfsverb: beginnen, starten 
+
+pakala
+Adjektiv: ruiniert, zerstört, zerbrochen 
+
+pakala
+Adverb: ruiniert, zerstört, zerbrochen 
+
+pakala!
+Interjektion: Verdammt! 
+
+pakala
+Substantiv: Fehler, Unfall, Havarie, Error, Vernichtung, Zerstörung, Schaden 
+
+pakala
+Verb, intransitiv: vermasseln, auseinander fallen, brechen, 
+
+pakala (e )
+Verb, transitiv: verpfuschen, zerstören, ruinieren, verletzen 
+
+pali
+Adjektiv: aktiv, tätig, Arbeits-, arbeitend, berufstätig, werktätig 
+
+pali
+Adverb: aktiv, tätig, arbeitend, berufstätig, werktätig 
+
+pali
+Substantiv: Tätigkeit, Betätigung, Arbeit, Tat, Projekt 
+
+pali
+Verb, intransitiv: handeln, arbeiten, funktionieren 
+
+pali (e )
+Verb, transitiv: tun, machen, bauen, erstellen 
+
+palisa
+Adjektiv: lang, länglich 
+
+palisa
+Substantiv: Rute, Stab, Stange, Angel, Stock, Stiel, Ast, Stock 
+
+palisa (e )
+Verb, transitiv: strecken, sexuell erregen 
+
+pan
+Substantiv: Getreide, Körner; Gerste, Mais, Hafer, Reis, Weizen, Brot, Nudeln 
+
+pan (e )
+Verb, transitiv: säen, aussäen 
+
+pana
+Adjektiv: großzügig 
+
+pana
+Substantiv: Verabreichung, Transformation, Überführung, Umtausch 
+
+pana (e )
+Verb, transitiv: geben, senden, entbinden, strahlen, emittieren 
+
+pi 
+Separator: ' pi ' ermöglicht komplexe Substantive. Es trennt ein Substantiv von einem anderen Substantiv, das mindestens ein Adjektiv hat. Nach ' pi ' kann nur ein Substantiv oder Pronomen folgen. Verwende ein ' pi' nicht zusammmen mit einem der anderen Separatoren. 
+
+pilin
+Adjektiv: sensitiv, fühlend, empathisch 
+
+pilin
+Adverb: einfühlsam 
+
+pilin
+Substantiv: Gefühl, Emotion, Herz 
+
+pilin
+Verb, intransitiv: fühlen, spüren, verspüren, empfinden 
+
+pilin (e )
+Verb, transitiv: denken, wahrnehmen, berühren, anfassen 
+
+pimeja
+Adjektiv: schwarz, dunkel 
+
+pimeja
+Substantiv: Dunkelheit, Finsternis, Schwärze, Schatten 
+
+pimeja (e )
+Verb, transitiv: verdunkeln, schwärzen 
+
+pini
+Adjektiv: abgeschlossen, vollendet, beendet, erledigt, fertiggestellt 
+
+pini
+Adverb: vor, vorbei, vorüber, perfekt, vollendet 
+
+pini
+Substantiv: Ende, Zweck, Ziel, Tip 
+
+pini (e )
+Verb, transitiv: beenden, erledigen, fertigstellen, vollenden 
+
+pini 
+Hilfsverb: stoppen, beenden, unterbrechen 
+
+pipi
+Substantiv: Insekt, Käfer, Spinne, Skorpion, Krebs, Krabbe, Schmetterling, Ameise 
+
+poka
+Adjektiv: angrenzend, benachbart 
+
+poka
+Substantiv: Seite, Hüfte, Nähe 
+
+poki
+Substantiv: Container, Behälter, Box, Schüssel, Schale, Tasse, (Trink-) Glas 
+
+poki (e )
+Verb, transitiv: einpacken, einwecken, einwickeln, einmachen 
+
+pona
+Adjektiv: gut, einfach, positiv, schön, richtig, korrekt, toll 
+
+pona
+Adverb: gut, einfach, schön, richtig, korrekt, toll 
+
+pona!
+Interjektion: Toll! Gut! Danke! OK! Cool! Fantastisch! 
+
+pona
+Substantiv: das Gute, Einfachheit, Positivismus 
+
+pona la 
+Substantiv: zum Glück, einfacherweise 
+
+pona (e )
+Verb, transitiv: verbessern, fixen, reparieren, festmachen 
+
+pu
+Adjektiv: Kaufen und Lesen des offiziellen Toki Pona Buchs 
+
+pu
+Substantiv: Einkauf und Lesung des offiziellen Toki Pona Buchs 
+
+pu
+Verb, intransitiv: Kaufen und Lesen des offiziellen Toki Pona Buch 
+
+pu (e )
+Verb, transitiv: Anwenden der Regeln des offiziellen Toki Pona Buches 
+
+pu 
+Hilfsverb: Kaufen und lesen des offiziellen Toki Pona Buchs 
+
+sama
+Adjektiv: gleichaltrig, ähnlich, paritätisch 
+
+sama
+Adverb: ähnlich 
+
+sama
+Substantiv: Gleichheit, Parität, Identität 
+
+sama la 
+Substantiv: bei Gleichheit, bei Parität, bei Identität 
+
+sama 
+Präposition: wie, dergleichen 
+
+sama (e )
+Verb, transitiv: gleichsetzen, gleich machen, nachäffen 
+
+seli
+Adjektiv: heiß, warm, gar 
+
+seli
+Adverb: heiß, warm 
+
+seli
+Substantiv: Feuer, Wärme, Hitze 
+
+seli (e )
+Verb, transitiv: erhitzen, erwärmen, aufwärmen, kochen 
+
+selo
+Substantiv: Außenseite, Oberfläche, Haut, Schale, Rinde, Borke, Gestalt, Form 
+
+selo (e )
+Verb, transitiv: schützen, bewachen 
+
+seme
+Fragepronomen: wer, wie, was, welche, warum, wessen (Fragewort) 
+
+sewi
+Adjektiv: übergeordnet, oberer, erhöht, erhaben, religiös, gläubig, formell 
+
+sewi
+Adverb: übergeordnet, erhöht, erhaben, gläubig, formell 
+
+sewi
+Substantiv: Höhe, Himmel, Dach, Gipfel, Spitze, Krone 
+
+sewi
+Verb, intransitiv: aufstehen 
+
+sewi (e )
+Verb, transitiv: heben, anheben 
+
+sijelo
+Adjektiv: körperlich, materiell, fleischlich 
+
+sijelo
+Adverb: körperlich 
+
+sijelo
+Substantiv: Körper, Leib, Gesundheit, physischer Zustand 
+
+sijelo (e )
+Verb, transitiv: heilen 
+
+sike
+Adjektiv: rund, konjunkturell, periodisch 
+
+sike
+Adverb: gedreht 
+
+sike
+Substantiv: Kreis, Rad, Kugel, Ball, Kreislauf, Periode, Zyklus 
+
+sike (e )
+Verb, transitiv: kreisen, drehen 
+
+sin
+Adjektiv: neu, frisch, noch einer, ein anderes, mehr 
+
+sin 
+Adverb: erneuernd 
+
+sin
+Substantiv: Nachrichten, Neuheit, Innovation 
+
+sin (e )
+Verb, transitiv: erneuern, renovieren, auffrischen, beleben 
+
+sina
+Personalpronomen: du, ihr (Plural) 
+
+sina
+Possessivpronomen: deins, euer 
+
+e sina
+Reflexivpronomen: dich, euch 
+
+sinpin
+Adjektiv: Gesichts-, frontal, Vorder-, vertikal 
+
+sinpin
+Substantiv: Front, Vorderseite, Gesicht, Brust, Brustkorb, Rumpf, Wand, Mauer 
+
+sitelen
+Adjektiv: bildlich, figurativ, bildhaft, metaphorisch 
+
+sitelen
+Adverb: bildlich 
+
+sitelen
+Substantiv: Bild, Abbildung, Foto, Film, Darstellung, Gemälde 
+
+sitelen (e )
+Verb, transitiv: zeichnen, malen, schreiben 
+
+sona
+Adjektiv: wissend, verständnisvoll, klug, schlau, clever 
+
+sona
+Substantiv: Kenntnis, Wissen, Erkenntnis, Weisheit, Intelligenz, Verständnis 
+
+sona
+Verb, intransitiv: wissen, können, verstehen 
+
+sona (e )
+Verb, transitiv: wissen, können, verstehen, zu etwas fähig sein 
+
+sona (e )
+Verb, transitiv: lernen, studieren 
+
+sona 
+Hilfsverb: wissen 
+
+soweli
+Adjektiv: tierisch 
+
+soweli
+Substantiv: (Land-) Säugetier, Hund, Kuh, Maus, Elefant, Katze, Fleisch 
+
+suli
+Adjektiv: groß, schwer, wichtig, lang, erwachsen 
+
+suli
+Adverb: schwer, wichtig, erwachsen 
+
+suli
+Substantiv: Größe, Format 
+
+suli (e )
+Verb, transitiv: vergrößern, ausbauen, ausdehnen, verlängern 
+
+suno
+Adjektiv: sonnig 
+
+suno
+Adverb: sonnig 
+
+suno
+Substantiv: Sonne, Licht, Helligkeit 
+
+suno (e )
+Verb, transitiv: scheinen, beleuchten 
+
+supa
+Adjektiv: flach, eben, plan, platt, seicht, horizontal 
+
+supa
+Substantiv: horizontale Fläche, Möbel, Tisch, Stuhl, Kissen, Fußboden 
+
+suwi
+Adjektiv: süß, niedlich 
+
+suwi
+Substantiv: Süßigkeiten, Zucker, Schokolade, Bonbon 
+
+suwi (e )
+Verb, transitiv: süßen, versüßen 
+
+tan
+Adjektiv: kausal, ursächlich 
+
+tan
+Substantiv: Ursprung, Abstammung, Herkunft, Entstehung, Grund, Ursache 
+
+tan 
+Präposition: von, aus, durch, wegen, weil, seit 
+
+tan
+Verb, intransitiv: stammen aus, kommen aus 
+
+taso
+Adjektiv: nur, einzig, alleinig 
+
+taso
+Adverb: nur, einzig, alleinig 
+
+taso 
+Konjunktion: aber, sondern, doch 
+
+tawa
+Adjektiv: beweglich, mobil 
+
+tawa
+Adverb: beweglich, mobil 
+
+tawa
+Substantiv: Bewegung, Regung, Transport 
+
+tawa 
+Präposition: zu, um zu, zu hin, nach, für, bis, in 
+
+tawa
+Verb, intransitiv: gehen, spazieren, verlassen, abfahren, reisen, besuchen 
+
+tawa (e )
+Verb, transitiv: bewegen, verschieben, verlagern 
+
+telo
+Adjektiv: feucht, klebrig, verschwitzt 
+
+telo
+Adverb: feucht, klebrig, verschwitzt 
+
+telo
+Substantiv: Wasser, Flüssigkeit, Feuchtigkeit, Saft, Soße 
+
+telo (e )
+Verb, transitiv: begießen, bewässern, befeuchten, waschen, schmelzen 
+
+tenpo
+Adjektiv: zeitlich, chronologisch 
+
+tenpo
+Adverb: chronologisch 
+
+tenpo
+Substantiv: Zeit, Zeitperiode, Zeitabschnitt, Moment, Dauer, Situation 
+
+toki
+Adjektiv: eloquent, sprachlich, verbal, grammatisch 
+
+toki
+Adverb: eloquent, sprachlich, verbal, grammatisch 
+
+toki!
+Interjektion: Hallo! Hi! 
+
+toki
+Substantiv: Sprache, Gespräch, Rede, Ansprache, Kommunikation, Plauderei 
+
+toki
+Verb, intransitiv: reden, sprechen, sich unterhalten, plaudern 
+
+toki (e )
+Verb, transitiv: sagen 
+
+tomo
+Adjektiv: städtebaulich, Stadt-, häuslich 
+
+tomo
+Adverb: häuslich 
+
+tomo
+Substantiv: Gebäude, Bauwerk, Haus, Raum, Konstruktion 
+
+tomo (e )
+Verb, transitiv: bauen, konstruieren 
+
+tu
+Adjektiv, Ziffer: zwei, 2 
+
+tu
+Substantiv: Duo, Paar 
+
+tu (e )
+Verb, transitiv: verdoppeln, zweiteilen, teilen, zerschneiden 
+
+unpa
+Adjektiv: erotisch, sexuell, sexy 
+
+unpa
+Adverb: erotisch, sexuell 
+
+unpa
+Substantiv: Geschlecht, Sex, Sexualität 
+
+unpa
+Verb, intransitiv: Sex haben 
+
+unpa (e )
+Verb, transitiv: mit jemandem schlafen, mit jemandem Sex haben 
+
+uta
+Adjektiv: mündlich, oral 
+
+uta
+Adverb: mündlich, oral 
+
+uta
+Substantiv: Mund, Maul, Schnabel 
+
+uta (e )
+Verb, transitiv: küssen, saugen 
+
+utala
+Adjektiv: kämpfend 
+
+utala
+Adverb: kämpfend 
+
+utala
+Substantiv: Konflikt, Disharmonie, Kampf, Krieg, Streit, Gewalt 
+
+utala (e )
+Verb, transitiv: schlagen, stoßen, überfallen, kämpfen 
+
+walo
+Adjektiv: weiß, hell, bleich 
+
+walo
+Substantiv: Helligkeit, Weiße 
+
+walo (e )
+Verb, transitiv: bleichen 
+
+wan
+Adjektiv, Ziffer: 1, eins, ein 
+
+wan
+Substantiv: Einheit, Element, Partikel, Teil, Abschnitt, Stück 
+
+wan (e )
+Verb, transitiv: einigen, vereinigen, zusammenführen 
+
+waso
+Adjektiv: vogel-, vogelartig 
+
+waso
+Substantiv: Vogel, Fledermaus, Geflügel 
+
+wawa
+Adjektiv: energisch, tatkräftig, stark, hitzig, intensiv 
+
+wawa
+Adverb: stark, kraftvoll 
+
+wawa
+Substantiv: Energie, Stärke, Mumm, Leistung, Kraft 
+
+wawa (e )
+Verb, transitiv: bestärken, verstärken, ermächtigen 
+
+weka
+Adjektiv: weg, fort, entfernt, abwesend, fehlend, versäumend 
+
+weka
+Substantiv: Abwesenheit (von), Fehlen, Mangel, Absenz 
+
+weka (e )
+Verb, transitiv: wegwerfen, entfernen, abtragen, 
+
+wile
+Adjektiv: notwendig, nötig, erforderlich 
+
+wile
+Substantiv: Begehren, Wunsch, Verlangen (nach), Lust (auf), Trieb, Zwang 
+
+wile (e )
+Verb, transitiv: benötigen, brauchen, müssen, wünschen, wollen, sollen 
+
+wile 
+Hilfsverb: wollen, wünschen, müssen 
+

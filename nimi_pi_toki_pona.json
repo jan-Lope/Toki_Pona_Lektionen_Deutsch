@@ -1,0 +1,6141 @@
+{
+  "words" : [
+    {
+    "entry" : {
+      "id" : 1,
+      "form" : "."
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Beendet wird ein Aussagesatz ((Deklarativsatz)) mit einem Punkt. Verwende einen Punkt nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 2,
+      "form" : "!"
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Aufforderungssätze (Imperativ) und Ausrufesätze (Interjektionen, Exclamatory) enden mit einem Ausrufungszeichen. Verwende ein Ausrufungszeichen nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 3,
+      "form" : "?"
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Beendet wird eine Frage (Interrogativ) mit einem Fragezeichen. Verwende ein Fragezeichen nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 4,
+      "form" : ":"
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Ein Doppelpunkt trennt ein Hinweis-Satz von einem Satz. Jeweils vor und nach dem Doppelpunkt muss ein vollständiger Satz sein. Verwende einen Doppelpunkt nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 5,
+      "form" : ","
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Ein Komma wird nach ' o' verwendet, wenn man Leute anspricht. Optional kann es vor einer Präposition eingefügt werden. Verwende ein Komma nicht zusammmen mit einem der anderen Separatoren ausser ' li'. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 6,
+      "form" : "''"
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Anführungszeichen werden für Zitate oder Originalschreibweise verwendet. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 7,
+      "form" : "'"
+    },
+    "translations" : [ {
+      "title" : "inoffiziell",
+      "forms" : [ "Ein Apostroph kann ein Prädikat, das kein Verb enthält, kennzeichnen. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 8,
+      "form" : "#"
+    },
+    "translations" : [ {
+      "title" : "inoffiziell",
+      "forms" : [ "Zur Kennzeichnung von Zahlen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 9,
+      "form" : "a"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "ah, ha, uh, oh, ooh, aw, well (emotionales Wort) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 10,
+      "form" : "a a a!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Lachen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 11,
+      "form" : "akesi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Amphibien-, Reptilien-, schleimig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 12,
+      "form" : "akesi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Reptil, Lurch, Amphibie, Saurier, Schlange, Drache, Frosch, Schildkröte " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 13,
+      "form" : "ala"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "nein, nichts, un- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 14,
+      "form" : "ala"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "Null, 0 " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 15,
+      "form" : "ala"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "nicht, un- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 16,
+      "form" : "ala!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Nein! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 17,
+      "form" : "ala"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Nichts, Negation, Null " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 18,
+      "form" : "alasa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "jagend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 19,
+      "form" : "alasa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Jagd " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 20,
+      "form" : "alasa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "jagen, verfolgen und töten, nach Futter suchen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 21,
+      "form" : "ale"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "alle(r/s), je, jeweils, komplett, ganz, (ale = ali), (veraltet) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 22,
+      "form" : "ale"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "100 (offizielles Toki Pona Buch) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 23,
+      "form" : "ale"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "alle(r/s), je, jeweils, komplett, ganz, (ale = ali), (veraltet) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 24,
+      "form" : "ale"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Alles, Etwas, Leben, Universium, Welt (veraltet) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 25,
+      "form" : "ali"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "alle(r/s), je, jeweils, komplett, ganz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 26,
+      "form" : "ali"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "alle(r/s), je, jeweils, komplett, ganz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 27,
+      "form" : "ali"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Alles, Etwas, Leben, Universium, Welt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 28,
+      "form" : "anpa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "unten, tief, niedrig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 29,
+      "form" : "anpa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "tief, niedrig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 30,
+      "form" : "anpa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Boden, Erdboden, Grund, Talsohle " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 31,
+      "form" : "anpa"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "sich unterwerfen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 32,
+      "form" : "anpa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "niederlassen, absenken, abseilen, herunterholen, besiegen, bezwingen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 33,
+      "form" : "ante"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "unterschiedlich, verschieden (von) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 34,
+      "form" : "ante"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Unterschied, Abweichung, Differenz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 35,
+      "form" : "ante la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Wenn Unterschied, bei Abweichung, bei Differenz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 36,
+      "form" : "ante (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "wechseln; umschalten, ändern, abändern, verändern, modifizieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 37,
+      "form" : "anu "
+    },
+    "translations" : [ {
+      "title" : "Konjunktion",
+      "forms" : [ "oder " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 38,
+      "form" : "awen"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "bleibend; verbleibend, feststehend, ortsfest, parkend, permanent, sesshaft " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 39,
+      "form" : "awen"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "verbleibend, noch, gerade beim ... " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 40,
+      "form" : "awen"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Trägheit, Kontinuität, Kontinuum, Aufenthalt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 41,
+      "form" : "awen"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "bleiben, verbleiben, sich aufhalten, warten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 42,
+      "form" : "awen (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "behalten; nicht weggeben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 43,
+      "form" : "e "
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Ein ' e' leitet das direkte Objekt ein. Verwende ein ' e' nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 44,
+      "form" : "en "
+    },
+    "translations" : [ {
+      "title" : "Konjunktion",
+      "forms" : [ "und (um Haupt-Substantive zu verbinden) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 45,
+      "form" : "esun"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kommerziell, gewerblich, kaufmännisch, verkäuflich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 46,
+      "form" : "esun"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Markt, Shop " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 47,
+      "form" : "esun (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "kaufen, verkaufen, tauschen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 48,
+      "form" : "ijo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "für etwas " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 49,
+      "form" : "ijo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "für etwas " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 50,
+      "form" : "ijo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Ding, Sache, Zeug, Krempel, Gegenstand, Objekt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 51,
+      "form" : "ijo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "objektivieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 52,
+      "form" : "ike"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "schlecht, schlimm, übel, böse, ungezogen, falsch, zu komplex, ungesund " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 53,
+      "form" : "ike"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "schlecht, schlimm, übel, böse, ungezogen, falsch, zu komplex, ungesund " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 54,
+      "form" : "ike!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Mist! Leider! Sch ! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 55,
+      "form" : "ike"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Negativität, Übel, Böse, Schlechtigkeit, Verderbtheit " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 56,
+      "form" : "ike la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "wenn Übel ..., bei Verderbtheit, aus Boshaftigkeit " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 57,
+      "form" : "ike"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "schlecht sein, jdm. in den Arsch kriechen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 58,
+      "form" : "ike (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "schlecht machen, verschlechtern, schlechten Einfluss auf " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 59,
+      "form" : "ilo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "nützlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 60,
+      "form" : "ilo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "nutzbringend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 61,
+      "form" : "ilo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Werkzeug, Gerät, Tool, Vorrichtung, Apparat, Maschine " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 62,
+      "form" : "insa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "intern, zentral " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 63,
+      "form" : "insa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Innere, Innenseite, Zentrum, Magen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 64,
+      "form" : "jaki"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "schmutzig, dreckig, schmierig, unsauber, schmuddelig, obszön " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 65,
+      "form" : "jaki"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "schmutzig, dreckig, schmierig; unsauber; schmuddelig; versifft, grob " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 66,
+      "form" : "jaki!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Igit! Ekelhaft! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 67,
+      "form" : "jaki"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Dreck, Schmutz, Verschmutzung, Müll, Schrott, Kot " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 68,
+      "form" : "jaki (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verschmutzen, verunreinigen, verpesten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 69,
+      "form" : "jan"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "persönlich, human, jemandes " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 70,
+      "form" : "jan"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "persönlich, human, jemandes " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 71,
+      "form" : "jan"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Mensch, Person, Leute, Jemand " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 72,
+      "form" : "jan (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "personifizieren, verkörpern, vermenschlichen, personalisieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 73,
+      "form" : "jelo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "gelb, hellgrün " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 74,
+      "form" : "jelo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gelb, Hellgrün " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 75,
+      "form" : "jo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "privat, persönlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 76,
+      "form" : "jo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Besitz, Inhalt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 77,
+      "form" : "jo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "haben, enthalten, umfassen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 78,
+      "form" : "jo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "erhalten, bekommen, kriegen, abkriegen, nehmen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 79,
+      "form" : "kala"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "fischig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 80,
+      "form" : "kala"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Wasserlebewesen, Fisch, Qualle, Tintenfisch, Muschel " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 81,
+      "form" : "kalama"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "laut, geräuschvoll, lautstark " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 82,
+      "form" : "kalama"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Laut, Sound, Geräusch, Stimme " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 83,
+      "form" : "kalama"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "Geräusch machen, laut sein " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 84,
+      "form" : "kalama (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "klingen, läuten, klingeln, ein Instrument spielen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 85,
+      "form" : "kama"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "einkehrend, kommend, zukünftig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 86,
+      "form" : "kama"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "einkehrend, kommend, zukünftig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 87,
+      "form" : "kama"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Zukunft, Chance, Ankunft, Anreise, Anfang, Beginn " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 88,
+      "form" : "kama"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "kommen, werden, anfangen, eintreffen, ankommen, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 89,
+      "form" : "kama "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "werde(n), er- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 90,
+      "form" : "kama (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bewerkstelligen, herbeiführen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 91,
+      "form" : "kasi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "vegetarisch, pflanzlich, biologisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 92,
+      "form" : "kasi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Pflanze, Blatt, Kraut, Baum, Strauch, Gras, Pilz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 93,
+      "form" : "kasi"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "(selber) wachsen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 94,
+      "form" : "kasi (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "(ein-)pflanzen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 95,
+      "form" : "ken"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Möglichkeit, Fähigkeit, Begabung, Erlaubnis, Genehmigung, Freigabe " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 96,
+      "form" : "ken la )"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "es besteht die Möglichkeit, bei Erlaubnis, bei Genehmigung " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 97,
+      "form" : "ken"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "kann, ist fähig zu, ist bemächtigt zu, mögen; dürfen, ist möglich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 98,
+      "form" : "ken "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "kann ... " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 99,
+      "form" : "ken (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "möglich machen, anordnen, aktivieren, freigeben, erlauben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 100,
+      "form" : "kepeken"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Nutzung, Verwendung, Werkzeug " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 101,
+      "form" : "kepeken "
+    },
+    "translations" : [ {
+      "title" : "Präposition",
+      "forms" : [ "mit, mittels, per " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 102,
+      "form" : "kepeken"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "benutzen, verwenden, anwenden, nutzen, gebrauchen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 103,
+      "form" : "kili"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "fruchtig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 104,
+      "form" : "kili"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "fruchtig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 105,
+      "form" : "kili"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Frucht, Obst, Gemüse, Pilz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 106,
+      "form" : "kin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "auch, noch, ebenso, ferner, außerdem, gerade, wirklich, tatsächlich kin kann das letzte Wort in einer Adjektiv-Gruppe sein. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 107,
+      "form" : "kin"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "auch, noch, ebenso, ferner, außerdem, gerade, wirklich, tatsächlich kin kann das letzte Wort in einer Adverb-Gruppe sein. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 108,
+      "form" : "kin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Wirklichkeit, Tatsache, Fakt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 109,
+      "form" : "kin la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "wenn Wirklichkeit, wenn Tatsache " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 110,
+      "form" : "kipisi "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "(inoffiziell): Abschnitt, Fragment, Scheibe " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 111,
+      "form" : "kipisi (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "(inoffiziell): schneiden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 112,
+      "form" : "kiwen"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "hart, schwer, heftig, fest, solid, stabil, robust, steinhart " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 113,
+      "form" : "kiwen"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "hart, schwer, heftig, fest, solid, stabil, robust, steinhart " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 114,
+      "form" : "kiwen"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Felsbrocken, Fels, Stein, Metall, Mineral, Lehm " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 115,
+      "form" : "kiwen (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verfestigen, verhärten, versteinern " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 116,
+      "form" : "ko"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "halbfeste Substanz, Paste, Puder, Gummi, Kleber, Mehl, Brei, Pulver " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 117,
+      "form" : "ko (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "zerquetschen, pulverisieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 118,
+      "form" : "kon"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "luftig, ätherisch, gasförmig, gasartig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 119,
+      "form" : "kon"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "luftig, ätherisch, gasförmig, gasartig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 120,
+      "form" : "kon"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Luft, Atmosphäre, Wind, Odor, Geruch, Seele, Geist " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 121,
+      "form" : "kon"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "atmen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 122,
+      "form" : "kon (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "wegblasen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 123,
+      "form" : "kule"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "farbenfreudig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 124,
+      "form" : "kule"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Farbe, Lack " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 125,
+      "form" : "kule (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "färben, anstreichen, streichen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 126,
+      "form" : "kulupu"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kommunal, geteilt, öffentlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 127,
+      "form" : "kulupu"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gruppe, Gemeinde, Gemeinschaft, Gemeinsamkeit, Gesellschaft " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 128,
+      "form" : "kulupu (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "montieren, zusammenbauen, zusammenrufen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 129,
+      "form" : "kute"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "auditiv, feinhörig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 130,
+      "form" : "kute"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gehör, Hörsinn " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 131,
+      "form" : "kute (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "hören, zuhören " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 132,
+      "form" : "la "
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Ein ' la' trennt eine Konditional-Phrase von einem Satz. Verwende ein ' la' nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 133,
+      "form" : "lape"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "schlafend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 134,
+      "form" : "lape"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "schlafend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 135,
+      "form" : "lape"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Schlaf, Ruhe, Pause " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 136,
+      "form" : "lape"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "schlafen, ruhen, dösen, liegen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 137,
+      "form" : "lape (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bewusstlos schlagen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 138,
+      "form" : "laso"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "blau, cyan " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 139,
+      "form" : "laso"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Blau, Cyan " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 140,
+      "form" : "lawa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Haupt- , größt- , wichtigst-, Leit-, tonangebend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 141,
+      "form" : "lawa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "führend, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 142,
+      "form" : "lawa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kopf, Sinn, Meinung, Ansicht " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 143,
+      "form" : "lawa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "führen, lenken, kontrollieren, steuern, herrschen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 144,
+      "form" : "len"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "gekleidet, kostümiert, verkleidet " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 145,
+      "form" : "len"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kleidung, Bekleidung, Stoff, Tuch, Lappen, Gewebe, Netzwerk, Internet " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 146,
+      "form" : "len (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "(Kleidung) tragen, verkleiden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 147,
+      "form" : "lete"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kalt, frostig, roh, ungekocht " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 148,
+      "form" : "lete"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "trostlos " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 149,
+      "form" : "lete"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kälte " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 150,
+      "form" : "lete (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "erkalten, kühlen, gefrieren, vereisen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 151,
+      "form" : "li "
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Er trennt die Subjekt-Phrase, außer ' mi' und ' sina'von, von der Prädikat-Phrase. Verwende ein ' li' nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 152,
+      "form" : "lili"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "klein, gering, unbedeutend, wenig, kaum, schwerlich, jung, ein wenig, kurz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 153,
+      "form" : "lili"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "wenig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 154,
+      "form" : "lili"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kleinheit, Jugend, Unmündigkeit " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 155,
+      "form" : "lili (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verkleinern, verringern, ermäßigen, schrumpfen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 156,
+      "form" : "linja"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "länglich, rechteckig, lang " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 157,
+      "form" : "linja"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Faden, Kette, Saite, Schnur, Sehne, Leine, Haar, Zwirn " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 158,
+      "form" : "lipu"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Buch-, Papier-, Karten-, Ticket-, Bogen-, Seiten- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 159,
+      "form" : "lipu"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Schriftstück, z.B. Papier, Pappe, Karte, Ticket, Website, Blog, Liste " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 160,
+      "form" : "loje"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "rot, rötlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 161,
+      "form" : "loje"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Rot " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 162,
+      "form" : "lon"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "real, wahr, bestehend, richtig, echt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 163,
+      "form" : "lon"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Existenz, Sein, Präsenz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 164,
+      "form" : "lon "
+    },
+    "translations" : [ {
+      "title" : "Präposition",
+      "forms" : [ "in, im, an, am, bei, auf " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 165,
+      "form" : "lon"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "anwesend sein, vorhanden sein, enthalten sein, existieren, leben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 166,
+      "form" : "lon (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "gebären, erschaffen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 167,
+      "form" : "luka"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "greifbar, Tast- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 168,
+      "form" : "luka"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "fünf, 5 " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 169,
+      "form" : "luka"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Hand, Arm " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 170,
+      "form" : "lukin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "optisch, sichtbar, visuell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 171,
+      "form" : "lukin"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "optisch, sichtbar, visuell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 172,
+      "form" : "lukin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Sicht, Blick, Sehen, Vision " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 173,
+      "form" : "lukin"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "aussehen, aufpassen (auf), Ausschau halten (nach), achten auf " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 174,
+      "form" : "lukin (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "sehen, betrachten, lesen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 175,
+      "form" : "lukin "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "sehen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 176,
+      "form" : "lupa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "löchrig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 177,
+      "form" : "lupa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Loch, Höhle; Bau, Mündung, Öffnung, Ausguss, Fenster, Tür, Tor " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 178,
+      "form" : "lupa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "durchbohren, erstechen, perforieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 179,
+      "form" : "ma"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "ländlich, im Freien, Open-Air- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 180,
+      "form" : "ma"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Land, Gegend, Erde, Staat, Kontinent, Gebiet, Zone, Areal " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 181,
+      "form" : "mama"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "elterlich, mütterlich, väterlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 182,
+      "form" : "mama"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Eltern, Mutter, Vater " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 183,
+      "form" : "mama (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bemuttern " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 184,
+      "form" : "mani"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Finanz-, finanziell, Währungs-, Vermögens- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 185,
+      "form" : "mani"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "finanziell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 186,
+      "form" : "mani"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Geld, Währung, Euro, Kapital " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 187,
+      "form" : "meli"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "weiblich, feminin, fraulich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 188,
+      "form" : "meli"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Frau, Dame, Lady, Mädchen, Weibchen, Weib, Ehefrau, Freundin " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 189,
+      "form" : "mi"
+    },
+    "translations" : [ {
+      "title" : "Personalpronomen",
+      "forms" : [ "ich, wir " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 190,
+      "form" : "mi"
+    },
+    "translations" : [ {
+      "title" : "Possessivpronomen",
+      "forms" : [ "mein, unser " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 191,
+      "form" : "e mi"
+    },
+    "translations" : [ {
+      "title" : "Reflexivpronomen",
+      "forms" : [ "mich, uns " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 192,
+      "form" : "mije"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "männlich, maskulin " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 193,
+      "form" : "mije"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Mann, Kerl, Ehemann, Liebhaber " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 194,
+      "form" : "moku"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "essend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 195,
+      "form" : "moku"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "essend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 196,
+      "form" : "moku"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Essen, Lebensmittel, Nahrung, Nahrungsmittel, Mahlzeit, Fressen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 197,
+      "form" : "moku (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "essen, trinken, schlucken, verzehren, verspeisen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 198,
+      "form" : "moli"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "tot, tödlich, fatal, schwerwiegend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 199,
+      "form" : "moli"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "tödlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 200,
+      "form" : "moli"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Tod, Todesfall " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 201,
+      "form" : "moli"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "tot sein " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 202,
+      "form" : "moli (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "töten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 203,
+      "form" : "moli"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "sterben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 204,
+      "form" : "monsi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Rück-, Hinter- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 205,
+      "form" : "monsi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Rücken, Heck, Hintern, Po, Arsch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 206,
+      "form" : "monsuta"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "(inoffiziell): ängstlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 207,
+      "form" : "monsuta"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "(inoffiziell): Monster, Ungeheuer, Fabelwesen, Angst " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 208,
+      "form" : "mu"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Tiergeräusch- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 209,
+      "form" : "mu"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "Tiergeräusch- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 210,
+      "form" : "mu!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Wau!, Miau!, Muh! (Tiergeräusch) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 211,
+      "form" : "mu"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Tiergeräusch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 212,
+      "form" : "mu"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "tierisch kommunizieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 213,
+      "form" : "mu (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "Tiergeräusche machen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 214,
+      "form" : "mun"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Mond- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 215,
+      "form" : "mun"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Mond, Stern, Planet " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 216,
+      "form" : "musi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kunstvoll, spaßig, Erholung-, Freizeit- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 217,
+      "form" : "musi"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "fröhlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 218,
+      "form" : "musi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Spaß, Partie, Spiel, Freizeit, Erholung, Kunst, Unterhaltung " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 219,
+      "form" : "musi"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "spielen, Spaß haben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 220,
+      "form" : "musi (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "amüsieren, unterhalten, belustigen, bewirten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 221,
+      "form" : "mute"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "viel, viele, mehrere, sehr, reichlich, zahlreich, weiter, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 222,
+      "form" : "mute"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "20 (offizielles Toki Pona Buch) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 223,
+      "form" : "mute"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "viel, sehr, reichlich, zahlreich, mehr, weiter, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 224,
+      "form" : "mute"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Betrag, Summe, Menge, Quantität " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 225,
+      "form" : "mute (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "viel machen, vermehren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 226,
+      "form" : "namako"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "würzig, pikant " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 227,
+      "form" : "namako"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gewürz, Salz, Nahrungsergänzung, Kräuter " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 228,
+      "form" : "namako (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "würzen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 229,
+      "form" : "nanpa "
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "Zum Bilden von Ordnungszahlen. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 230,
+      "form" : "nanpa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Zahl, Ziffer, Anzahl, Ordnungszahl " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 231,
+      "form" : "nanpa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "zählen, nummerieren, beziffern, rechnen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 232,
+      "form" : "nasa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "dumm, doof, blöd, töricht, albern, verrückt, übergeschnappt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 233,
+      "form" : "nasa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "töricht, affig, albern, verrückt, übergeschnappt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 234,
+      "form" : "nasa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Dummheit, Unsinn, Blödsinn, Stumpfheit, Schussel, Wirrkopf " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 235,
+      "form" : "nasa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verrückt machen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 236,
+      "form" : "nasin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "systematisch, gewöhnlich, üblich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 237,
+      "form" : "nasin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Weg, Straße, Strecke, Pfad, Methode, Doktrin, Lehre, System " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 238,
+      "form" : "nena"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "hügelig, bergig, bucklig, holprig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 239,
+      "form" : "nena"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Beule, Hügel, Berg, Gebirge, Erhebung, Button, Nase, Rundung " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 240,
+      "form" : "ni"
+    },
+    "translations" : [ {
+      "title" : "adjektivisches Demonstrativpronomen",
+      "forms" : [ "dies, diese, dieser, dieses (hier), (das) dort, jenes " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 241,
+      "form" : "ni"
+    },
+    "translations" : [ {
+      "title" : "substantivisches Demonstrativpronomen",
+      "forms" : [ "dies, diese, dieser, dieses (hier), (das) dort, jenes " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 242,
+      "form" : "nimi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Wort, Name " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 243,
+      "form" : "nimi (e ) "
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bennenen, Namen geben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 244,
+      "form" : "noka"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Fuß-, niedriger, unten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 245,
+      "form" : "noka "
+    },
+    "translations" : [ {
+      "title" : "adverb",
+      "forms" : [ "zu Fuß " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 246,
+      "form" : "noka"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Bein, Fuß " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 247,
+      "form" : "o!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Hallo! (um jemandes Aufmerksamkeit zu erwirken) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 248,
+      "form" : "o, "
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Leute ansprechen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 249,
+      "form" : "o !"
+    },
+    "translations" : [ {
+      "title" : "Subjekt",
+      "forms" : [ "Ein ' o ' wird bei Befehlen verwendet und ersetzt das Subjekt. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 250,
+      "form" : "o !"
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "Ein ' o ' wird bei Befehlen verwendet und ersetzt ' li '. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 251,
+      "form" : "oko"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "optisch, Augen- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 252,
+      "form" : "oko"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Auge " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 253,
+      "form" : "olin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Liebes- " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 254,
+      "form" : "olin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Liebe " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 255,
+      "form" : "olin (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "(eine Person) lieben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 256,
+      "form" : "ona"
+    },
+    "translations" : [ {
+      "title" : "Personalpronomen",
+      "forms" : [ "er, sie, es, sie (Plural) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 257,
+      "form" : "ona"
+    },
+    "translations" : [ {
+      "title" : "Possessivpronomen",
+      "forms" : [ "seins, ihres, seine, deren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 258,
+      "form" : "e ona"
+    },
+    "translations" : [ {
+      "title" : "Reflexivpronomen",
+      "forms" : [ "seins, ihres, seine, deren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 259,
+      "form" : "open"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "(er-)öffnend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 260,
+      "form" : "open"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Anfang, Beginn, Start " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 261,
+      "form" : "open la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "zu Anfang, bei Beginn, beim Start " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 262,
+      "form" : "open (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "öffnen, andrehen, anmachen, anschalten, beginnen, anfangen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 263,
+      "form" : "open "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "beginnen, starten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 264,
+      "form" : "pakala"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "ruiniert, zerstört, zerbrochen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 265,
+      "form" : "pakala"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "ruiniert, zerstört, zerbrochen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 266,
+      "form" : "pakala!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Verdammt! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 267,
+      "form" : "pakala"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Fehler, Unfall, Havarie, Error, Vernichtung, Zerstörung, Schaden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 268,
+      "form" : "pakala"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "vermasseln, auseinander fallen, brechen, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 269,
+      "form" : "pakala (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verpfuschen, zerstören, ruinieren, verletzen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 270,
+      "form" : "pali"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "aktiv, tätig, Arbeits-, arbeitend, berufstätig, werktätig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 271,
+      "form" : "pali"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "aktiv, tätig, arbeitend, berufstätig, werktätig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 272,
+      "form" : "pali"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Tätigkeit, Betätigung, Arbeit, Tat, Projekt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 273,
+      "form" : "pali"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "handeln, arbeiten, funktionieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 274,
+      "form" : "pali (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "tun, machen, bauen, erstellen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 275,
+      "form" : "palisa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "lang, länglich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 276,
+      "form" : "palisa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Rute, Stab, Stange, Angel, Stock, Stiel, Ast, Stock " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 277,
+      "form" : "palisa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "strecken, sexuell erregen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 278,
+      "form" : "pan"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Getreide, Körner; Gerste, Mais, Hafer, Reis, Weizen, Brot, Nudeln " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 279,
+      "form" : "pan (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "säen, aussäen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 280,
+      "form" : "pana"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "großzügig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 281,
+      "form" : "pana"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Verabreichung, Transformation, Überführung, Umtausch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 282,
+      "form" : "pana (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "geben, senden, entbinden, strahlen, emittieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 283,
+      "form" : "pi "
+    },
+    "translations" : [ {
+      "title" : "Separator",
+      "forms" : [ "' pi ' ermöglicht komplexe Substantive. Es trennt ein Substantiv von einem anderen Substantiv, das mindestens ein Adjektiv hat. Nach ' pi ' kann nur ein Substantiv oder Pronomen folgen. Verwende ein ' pi' nicht zusammmen mit einem der anderen Separatoren. " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 284,
+      "form" : "pilin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "sensitiv, fühlend, empathisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 285,
+      "form" : "pilin"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "einfühlsam " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 286,
+      "form" : "pilin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gefühl, Emotion, Herz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 287,
+      "form" : "pilin"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "fühlen, spüren, verspüren, empfinden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 288,
+      "form" : "pilin (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "denken, wahrnehmen, berühren, anfassen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 289,
+      "form" : "pimeja"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "schwarz, dunkel " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 290,
+      "form" : "pimeja"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Dunkelheit, Finsternis, Schwärze, Schatten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 291,
+      "form" : "pimeja (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verdunkeln, schwärzen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 292,
+      "form" : "pini"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "abgeschlossen, vollendet, beendet, erledigt, fertiggestellt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 293,
+      "form" : "pini"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "vor, vorbei, vorüber, perfekt, vollendet " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 294,
+      "form" : "pini"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Ende, Zweck, Ziel, Tip " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 295,
+      "form" : "pini (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "beenden, erledigen, fertigstellen, vollenden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 296,
+      "form" : "pini "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "stoppen, beenden, unterbrechen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 297,
+      "form" : "pipi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Insekt, Käfer, Spinne, Skorpion, Krebs, Krabbe, Schmetterling, Ameise " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 298,
+      "form" : "poka"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "angrenzend, benachbart " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 299,
+      "form" : "poka"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Seite, Hüfte, Nähe " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 300,
+      "form" : "poki"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Container, Behälter, Box, Schüssel, Schale, Tasse, (Trink-) Glas " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 301,
+      "form" : "poki (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "einpacken, einwecken, einwickeln, einmachen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 302,
+      "form" : "pona"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "gut, einfach, positiv, schön, richtig, korrekt, toll " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 303,
+      "form" : "pona"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "gut, einfach, schön, richtig, korrekt, toll " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 304,
+      "form" : "pona!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Toll! Gut! Danke! OK! Cool! Fantastisch! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 305,
+      "form" : "pona"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "das Gute, Einfachheit, Positivismus " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 306,
+      "form" : "pona la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "zum Glück, einfacherweise " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 307,
+      "form" : "pona (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verbessern, fixen, reparieren, festmachen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 308,
+      "form" : "pu"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Kaufen und Lesen des offiziellen Toki Pona Buchs " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 309,
+      "form" : "pu"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Einkauf und Lesung des offiziellen Toki Pona Buchs " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 310,
+      "form" : "pu"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "Kaufen und Lesen des offiziellen Toki Pona Buch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 311,
+      "form" : "pu (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "Anwenden der Regeln des offiziellen Toki Pona Buches " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 312,
+      "form" : "pu "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "Kaufen und lesen des offiziellen Toki Pona Buchs " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 313,
+      "form" : "sama"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "gleichaltrig, ähnlich, paritätisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 314,
+      "form" : "sama"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "ähnlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 315,
+      "form" : "sama"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gleichheit, Parität, Identität " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 316,
+      "form" : "sama la "
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "bei Gleichheit, bei Parität, bei Identität " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 317,
+      "form" : "sama "
+    },
+    "translations" : [ {
+      "title" : "Präposition",
+      "forms" : [ "wie, dergleichen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 318,
+      "form" : "sama (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "gleichsetzen, gleich machen, nachäffen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 319,
+      "form" : "seli"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "heiß, warm, gar " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 320,
+      "form" : "seli"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "heiß, warm " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 321,
+      "form" : "seli"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Feuer, Wärme, Hitze " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 322,
+      "form" : "seli (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "erhitzen, erwärmen, aufwärmen, kochen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 323,
+      "form" : "selo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Außenseite, Oberfläche, Haut, Schale, Rinde, Borke, Gestalt, Form " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 324,
+      "form" : "selo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "schützen, bewachen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 325,
+      "form" : "seme"
+    },
+    "translations" : [ {
+      "title" : "Fragepronomen",
+      "forms" : [ "wer, wie, was, welche, warum, wessen (Fragewort) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 326,
+      "form" : "sewi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "übergeordnet, oberer, erhöht, erhaben, religiös, gläubig, formell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 327,
+      "form" : "sewi"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "übergeordnet, erhöht, erhaben, gläubig, formell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 328,
+      "form" : "sewi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Höhe, Himmel, Dach, Gipfel, Spitze, Krone " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 329,
+      "form" : "sewi"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "aufstehen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 330,
+      "form" : "sewi (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "heben, anheben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 331,
+      "form" : "sijelo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "körperlich, materiell, fleischlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 332,
+      "form" : "sijelo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "körperlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 333,
+      "form" : "sijelo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Körper, Leib, Gesundheit, physischer Zustand " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 334,
+      "form" : "sijelo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "heilen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 335,
+      "form" : "sike"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "rund, konjunkturell, periodisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 336,
+      "form" : "sike"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "gedreht " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 337,
+      "form" : "sike"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kreis, Rad, Kugel, Ball, Kreislauf, Periode, Zyklus " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 338,
+      "form" : "sike (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "kreisen, drehen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 339,
+      "form" : "sin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "neu, frisch, noch einer, ein anderes, mehr " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 340,
+      "form" : "sin "
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "erneuernd " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 341,
+      "form" : "sin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Nachrichten, Neuheit, Innovation " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 342,
+      "form" : "sin (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "erneuern, renovieren, auffrischen, beleben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 343,
+      "form" : "sina"
+    },
+    "translations" : [ {
+      "title" : "Personalpronomen",
+      "forms" : [ "du, ihr (Plural) " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 344,
+      "form" : "sina"
+    },
+    "translations" : [ {
+      "title" : "Possessivpronomen",
+      "forms" : [ "deins, euer " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 345,
+      "form" : "e sina"
+    },
+    "translations" : [ {
+      "title" : "Reflexivpronomen",
+      "forms" : [ "dich, euch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 346,
+      "form" : "sinpin"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "Gesichts-, frontal, Vorder-, vertikal " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 347,
+      "form" : "sinpin"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Front, Vorderseite, Gesicht, Brust, Brustkorb, Rumpf, Wand, Mauer " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 348,
+      "form" : "sitelen"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "bildlich, figurativ, bildhaft, metaphorisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 349,
+      "form" : "sitelen"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "bildlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 350,
+      "form" : "sitelen"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Bild, Abbildung, Foto, Film, Darstellung, Gemälde " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 351,
+      "form" : "sitelen (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "zeichnen, malen, schreiben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 352,
+      "form" : "sona"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "wissend, verständnisvoll, klug, schlau, clever " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 353,
+      "form" : "sona"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Kenntnis, Wissen, Erkenntnis, Weisheit, Intelligenz, Verständnis " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 354,
+      "form" : "sona"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "wissen, können, verstehen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 355,
+      "form" : "sona (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "wissen, können, verstehen, zu etwas fähig sein " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 356,
+      "form" : "sona (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "lernen, studieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 357,
+      "form" : "sona "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "wissen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 358,
+      "form" : "soweli"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "tierisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 359,
+      "form" : "soweli"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "(Land-) Säugetier, Hund, Kuh, Maus, Elefant, Katze, Fleisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 360,
+      "form" : "suli"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "groß, schwer, wichtig, lang, erwachsen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 361,
+      "form" : "suli"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "schwer, wichtig, erwachsen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 362,
+      "form" : "suli"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Größe, Format " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 363,
+      "form" : "suli (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "vergrößern, ausbauen, ausdehnen, verlängern " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 364,
+      "form" : "suno"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "sonnig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 365,
+      "form" : "suno"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "sonnig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 366,
+      "form" : "suno"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Sonne, Licht, Helligkeit " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 367,
+      "form" : "suno (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "scheinen, beleuchten " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 368,
+      "form" : "supa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "flach, eben, plan, platt, seicht, horizontal " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 369,
+      "form" : "supa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "horizontale Fläche, Möbel, Tisch, Stuhl, Kissen, Fußboden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 370,
+      "form" : "suwi"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "süß, niedlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 371,
+      "form" : "suwi"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Süßigkeiten, Zucker, Schokolade, Bonbon " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 372,
+      "form" : "suwi (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "süßen, versüßen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 373,
+      "form" : "tan"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kausal, ursächlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 374,
+      "form" : "tan"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Ursprung, Abstammung, Herkunft, Entstehung, Grund, Ursache " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 375,
+      "form" : "tan "
+    },
+    "translations" : [ {
+      "title" : "Präposition",
+      "forms" : [ "von, aus, durch, wegen, weil, seit " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 376,
+      "form" : "tan"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "stammen aus, kommen aus " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 377,
+      "form" : "taso"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "nur, einzig, alleinig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 378,
+      "form" : "taso"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "nur, einzig, alleinig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 379,
+      "form" : "taso "
+    },
+    "translations" : [ {
+      "title" : "Konjunktion",
+      "forms" : [ "aber, sondern, doch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 380,
+      "form" : "tawa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "beweglich, mobil " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 381,
+      "form" : "tawa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "beweglich, mobil " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 382,
+      "form" : "tawa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Bewegung, Regung, Transport " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 383,
+      "form" : "tawa "
+    },
+    "translations" : [ {
+      "title" : "Präposition",
+      "forms" : [ "zu, um zu, zu hin, nach, für, bis, in " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 384,
+      "form" : "tawa"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "gehen, spazieren, verlassen, abfahren, reisen, besuchen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 385,
+      "form" : "tawa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bewegen, verschieben, verlagern " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 386,
+      "form" : "telo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "feucht, klebrig, verschwitzt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 387,
+      "form" : "telo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "feucht, klebrig, verschwitzt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 388,
+      "form" : "telo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Wasser, Flüssigkeit, Feuchtigkeit, Saft, Soße " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 389,
+      "form" : "telo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "begießen, bewässern, befeuchten, waschen, schmelzen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 390,
+      "form" : "tenpo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "zeitlich, chronologisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 391,
+      "form" : "tenpo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "chronologisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 392,
+      "form" : "tenpo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Zeit, Zeitperiode, Zeitabschnitt, Moment, Dauer, Situation " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 393,
+      "form" : "toki"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "eloquent, sprachlich, verbal, grammatisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 394,
+      "form" : "toki"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "eloquent, sprachlich, verbal, grammatisch " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 395,
+      "form" : "toki!"
+    },
+    "translations" : [ {
+      "title" : "Interjektion",
+      "forms" : [ "Hallo! Hi! " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 396,
+      "form" : "toki"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Sprache, Gespräch, Rede, Ansprache, Kommunikation, Plauderei " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 397,
+      "form" : "toki"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "reden, sprechen, sich unterhalten, plaudern " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 398,
+      "form" : "toki (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "sagen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 399,
+      "form" : "tomo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "städtebaulich, Stadt-, häuslich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 400,
+      "form" : "tomo"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "häuslich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 401,
+      "form" : "tomo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Gebäude, Bauwerk, Haus, Raum, Konstruktion " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 402,
+      "form" : "tomo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bauen, konstruieren " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 403,
+      "form" : "tu"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "zwei, 2 " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 404,
+      "form" : "tu"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Duo, Paar " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 405,
+      "form" : "tu (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "verdoppeln, zweiteilen, teilen, zerschneiden " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 406,
+      "form" : "unpa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "erotisch, sexuell, sexy " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 407,
+      "form" : "unpa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "erotisch, sexuell " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 408,
+      "form" : "unpa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Geschlecht, Sex, Sexualität " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 409,
+      "form" : "unpa"
+    },
+    "translations" : [ {
+      "title" : "Verb, intransitiv",
+      "forms" : [ "Sex haben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 410,
+      "form" : "unpa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "mit jemandem schlafen, mit jemandem Sex haben " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 411,
+      "form" : "uta"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "mündlich, oral " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 412,
+      "form" : "uta"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "mündlich, oral " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 413,
+      "form" : "uta"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Mund, Maul, Schnabel " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 414,
+      "form" : "uta (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "küssen, saugen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 415,
+      "form" : "utala"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "kämpfend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 416,
+      "form" : "utala"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "kämpfend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 417,
+      "form" : "utala"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Konflikt, Disharmonie, Kampf, Krieg, Streit, Gewalt " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 418,
+      "form" : "utala (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "schlagen, stoßen, überfallen, kämpfen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 419,
+      "form" : "walo"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "weiß, hell, bleich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 420,
+      "form" : "walo"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Helligkeit, Weiße " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 421,
+      "form" : "walo (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bleichen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 422,
+      "form" : "wan"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv, Ziffer",
+      "forms" : [ "1, eins, ein " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 423,
+      "form" : "wan"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Einheit, Element, Partikel, Teil, Abschnitt, Stück " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 424,
+      "form" : "wan (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "einigen, vereinigen, zusammenführen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 425,
+      "form" : "waso"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "vogel-, vogelartig " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 426,
+      "form" : "waso"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Vogel, Fledermaus, Geflügel " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 427,
+      "form" : "wawa"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "energisch, tatkräftig, stark, hitzig, intensiv " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 428,
+      "form" : "wawa"
+    },
+    "translations" : [ {
+      "title" : "Adverb",
+      "forms" : [ "stark, kraftvoll " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 429,
+      "form" : "wawa"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Energie, Stärke, Mumm, Leistung, Kraft " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 430,
+      "form" : "wawa (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "bestärken, verstärken, ermächtigen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 431,
+      "form" : "weka"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "weg, fort, entfernt, abwesend, fehlend, versäumend " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 432,
+      "form" : "weka"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Abwesenheit (von), Fehlen, Mangel, Absenz " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 433,
+      "form" : "weka (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "wegwerfen, entfernen, abtragen, " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 434,
+      "form" : "wile"
+    },
+    "translations" : [ {
+      "title" : "Adjektiv",
+      "forms" : [ "notwendig, nötig, erforderlich " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 435,
+      "form" : "wile"
+    },
+    "translations" : [ {
+      "title" : "Substantiv",
+      "forms" : [ "Begehren, Wunsch, Verlangen (nach), Lust (auf), Trieb, Zwang " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 436,
+      "form" : "wile (e )"
+    },
+    "translations" : [ {
+      "title" : "Verb, transitiv",
+      "forms" : [ "benötigen, brauchen, müssen, wünschen, wollen, sollen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+    } , 
+    {
+    "entry" : {
+      "id" : 437,
+      "form" : "wile "
+    },
+    "translations" : [ {
+      "title" : "Hilfsverb",
+      "forms" : [ "wollen, wünschen, müssen " ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "alphabetOrderType" : "UNICODE",
+    "punctuations" : [ "🗿" ],
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
