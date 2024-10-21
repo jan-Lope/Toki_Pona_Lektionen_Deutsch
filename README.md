@@ -88,6 +88,31 @@ Lade alle Dateien in ein Verzeichnis und wechsle in diese Verzeichis. Unter Linu
     ./make.sh
 
 
+# Meine Ideen
+
+## Niveaus künstlicher Sprachen
+
+Ich denke, dass es mehrere Niveaus künstlicher Sprachen gibt. Diese Niveaus hängen von der Anzahl aktiver Sprecher, dem Niveau der Sprecher, der Anzahl guter Lehrer und der Anzahl guter Texte ab.
+
+### 1. Ebene
+
+Die Sprache ist unbekannt. Vielleicht diskutieren wenige Leute über diese Sprache. Eine sinnvolle Anwendung dieser Sprache ist nicht möglich. Es gibt keine guten Lehrer und keiner schreibt gute Texte. Die meisten künstlichen Sprachen haben dieses Niveau.
+
+### 2. Ebene
+
+Hunderte bis Tausende Laien diskutieren über die korrekte Anwendung dieser Sprache. Eine sinnvolle Anwendung dieser Sprache ist jedoch nicht möglich. Es gibt keine guten Lehrer und keiner schreibt gute Texte. Ein Beispiel für dieses Niveau ist die „Sprache“ Toki Pona.
+
+### 3. Ebene
+
+Tausende Amateure diskutieren über die Vorteile dieser Sprache. Es werden Organisationen gegründet, um die Sprache zu verbreiten. Aber diese Organisationen befassen sich mit mit sich selber. Der Grund ist: Es gibt nicht genügend gute Lehrer und es gibt keine Strategie zur Verbreitung der Sprache. Es gibt einige gute Texte, aber das reicht nicht aus. Die Anzahl guter Redner unzureichend. Man spricht über diese Sprache, aber nicht in dieser Sprache. Gespräche über alltägliche Themen sind nicht üblich. Interlingua hat dieses Niveau.
+
+### 4. Ebene
+
+Hunderttausende Menschen sprechen diese Sprache. Man spricht auch über alltägliche Themen. Es gibt viele Organisationen, die diese Sprache verbreiten möchten. Die Zahl guter Texte und guter Lehrer steigt. Die Sprache hat eine lange Tradition. Ich denke, nur Esperanto hat dieses Niveau.
+
+### 5. Ebene
+
+Die Sprache ist eine normale Sprache geworden. Gute Texte und gute Lehrer gibt es genug. Die Organisationen zur Verbreitung dieser Sprache werden überflüüsig. Man genügend Partner finden, um diese Sprache zu üben. Es entstehen Dialekte dieser Sprache. Sie können diese Sprache in Hotels und Flughäfen in mindestens einem Land verwenden. Ich glaube nicht, dass jemals eine künstliche Sprache dieses Niveau erreichen könnte.
 
   
 [jan Lope](https://jan-lope.github.io)
